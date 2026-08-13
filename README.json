@@ -1,0 +1,788 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Eric162/wezterm-agent-deck",
+          "description": "Monitors AI coding agents, shows status dots in tabs and notifications when agents need attention.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-03-26T13:04:57Z",
+            "owner": "Eric162",
+            "repo": "wezterm-agent-deck",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Michal1993r/ai-helper.wezterm",
+          "description": "Ask AI for CLI help with LM Studio or Google Gemini.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-03-13T13:34:38Z",
+            "owner": "Michal1993r",
+            "repo": "ai-helper.wezterm",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dimao/ai-commander.wezterm",
+          "description": "Generate and select bash commands based on natural language prompts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-05-09T17:04:23Z",
+            "owner": "dimao",
+            "repo": "ai-commander.wezterm",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EdenGibson/wezterm-quota-limit",
+          "description": "Shows Claude API usage quota in the status bar with color-coded thresholds and automatic token refresh.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-06-21T05:34:32Z",
+            "owner": "EdenGibson",
+            "repo": "wezterm-quota-limit",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "M-Marbouh/agent-quota.wezterm",
+          "description": "Shows Claude and Codex quota usage in the status bar with reset countdowns, process-aware states, and shared caching.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-10T22:11:17Z",
+            "owner": "M-Marbouh",
+            "repo": "agent-quota.wezterm",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "AI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MLFlexer/modal.wezterm",
+          "description": "Predefined Vim-like modal keybindings with a good looking UI.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2026-05-24T17:06:45Z",
+            "owner": "MLFlexer",
+            "repo": "modal.wezterm",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sei40kr/wez-tmux",
+          "description": "Ported tmux keybindings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-11-03T04:49:48Z",
+            "owner": "sei40kr",
+            "repo": "wez-tmux",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "abidibo/wezterm-cmdpicker",
+          "description": "Add a command-palette-style fuzzy picker for keybindings. Press a trigger key to search and execute any keybinding — user-defined, config, or WezTerm defaults.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-05-25T21:13:26Z",
+            "owner": "abidibo",
+            "repo": "wezterm-cmdpicker",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sei40kr/wez-pain-control",
+          "description": "Pane control keybindings like tmux-pain-control.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-11-21T14:59:09Z",
+            "owner": "sei40kr",
+            "repo": "wez-pain-control",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "annie444/sync-panes.wez",
+          "description": "Mirrors your keystrokes to every pane in the active tab — the equivalent of tmux's .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-09T22:00:46Z",
+            "owner": "annie444",
+            "repo": "sync-panes.wez",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sravioli/chord.wz",
+          "description": "Vim-style key notation, modal key tables, and hint bars.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-05-14T13:33:37Z",
+            "owner": "sravioli",
+            "repo": "chord.wz",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "selectnull/pinned-tabs.wezterm",
+          "description": "Lets you assign a key binding to a specific tab.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-08-16T13:59:41Z",
+            "owner": "selectnull",
+            "repo": "pinned-tabs.wezterm",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Keybinding"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mrjones2014/smart-splits.nvim",
+          "description": "Provides an addon for seamless pane navigation between Neovim and the WezTerm MUX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-08T01:45:58Z",
+            "owner": "mrjones2014",
+            "repo": "smart-splits.nvim",
+            "stars": 1710
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "winter-again/wezterm-config.nvim",
+          "description": "Interact with the WezTerm configuration directly from Neovim.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-04-01T23:14:51Z",
+            "owner": "winter-again",
+            "repo": "wezterm-config.nvim",
+            "stars": 72
+          }
+        }
+      ],
+      "title": "Neovim"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ChrisGVE/pivot_panes.wezterm",
+          "description": "Toggle pane orientation between horizontal and vertical splits.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-03-06T17:39:42Z",
+            "owner": "ChrisGVE",
+            "repo": "pivot_panes.wezterm",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bad-noodles/stack.wez",
+          "description": "Stacked pane mode, work with multiple panes but see only one at a time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-11-23T23:14:17Z",
+            "owner": "bad-noodles",
+            "repo": "stack.wez",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Panes"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MLFlexer/smart_workspace_switcher.wezterm",
+          "description": "Switch between workspaces with fuzzy finding and .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2026-05-24T17:06:13Z",
+            "owner": "MLFlexer",
+            "repo": "smart_workspace_switcher.wezterm",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mikkasendke/sessionizer.wezterm",
+          "description": "Opening Git repositories as their own WezTerm workspaces using .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-07-05T23:40:07Z",
+            "owner": "mikkasendke",
+            "repo": "sessionizer.wezterm",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DavidRR-F/quick_domains.wezterm",
+          "description": "Faster way to search and attach to (SSH) domains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-02-01T17:39:16Z",
+            "owner": "DavidRR-F",
+            "repo": "quick_domains.wezterm",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "abidibo/wezterm-sessions",
+          "description": "Save and restore sessions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-05-25T21:12:36Z",
+            "owner": "abidibo",
+            "repo": "wezterm-sessions",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vieitesss/workspacesionizer.wezterm",
+          "description": "Blazingly fast workspace chooser inspired by .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-03-03T05:47:38Z",
+            "owner": "vieitesss",
+            "repo": "workspacesionizer.wezterm",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "isseii10/workspace-picker.wezterm",
+          "description": "Workspace switcher with integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-05-17T08:53:30Z",
+            "owner": "isseii10",
+            "repo": "workspace-picker.wezterm",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ryanmsnyder/workspace-manager.wezterm",
+          "description": "Navigate projects effortlessly with smart workspace switching and keyboard-driven navigation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-04-24T19:41:43Z",
+            "owner": "ryanmsnyder",
+            "repo": "workspace-manager.wezterm",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JuanraCM/wsinit.wezterm",
+          "description": "A simple and flexible way to manage and initialize workspace configurations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-03-02T16:42:18Z",
+            "owner": "JuanraCM",
+            "repo": "wsinit.wezterm",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StephenGemin/resurrect.wezterm",
+          "description": "Save and restore the state of workspaces, windows, tabs and panes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-14T01:36:03Z",
+            "owner": "StephenGemin",
+            "repo": "resurrect.wezterm",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "srackham/tabsets.wezterm",
+          "description": "Load, save, rename and delete named sets of tabs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-05-16T20:01:36Z",
+            "owner": "srackham",
+            "repo": "tabsets.wezterm",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Session"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "michaelbrusegard/tabline.wez",
+          "description": "A versatile and easy to use retro tab bar with the configuration format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-23T21:52:06Z",
+            "owner": "michaelbrusegard",
+            "repo": "tabline.wez",
+            "stars": 302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "adriankarlen/bar.wezterm",
+          "description": "A configurable tab bar with batteries included.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-04-15T14:27:06Z",
+            "owner": "adriankarlen",
+            "repo": "bar.wezterm",
+            "stars": 238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yriveiro/wezterm-tabs",
+          "description": "Configurable tabs for the retro tab bar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-03-23T14:14:50Z",
+            "owner": "yriveiro",
+            "repo": "wezterm-tabs",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yriveiro/wezterm-status",
+          "description": "Configurable status for the retro tab bar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-03-23T14:07:11Z",
+            "owner": "yriveiro",
+            "repo": "wezterm-status",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pro-vi/wezterm-attention",
+          "description": "Turns your tab bar into a notification system with colored tab indicators.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-23T11:25:48Z",
+            "owner": "pro-vi",
+            "repo": "wezterm-attention",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rootiest/battery.wez",
+          "description": "A colorful and fancy battery component for the retro tab bar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-10-07T17:51:50Z",
+            "owner": "rootiest",
+            "repo": "battery.wez",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Tab bar"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "neapsix/wezterm",
+          "description": "Rosé Pine theme, all natural pine, faux fur and a bit of soho vibes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-05-11T16:40:59Z",
+            "owner": "neapsix",
+            "repo": "wezterm",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koh-sh/wezterm-theme-rotator",
+          "description": "Cycle through built-in themes using keyboard shortcuts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-03-23T07:38:17Z",
+            "owner": "koh-sh",
+            "repo": "wezterm-theme-rotator",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sravioli/kanagawa.wz",
+          "description": "Kanagawa.nvim color schemes with Wave, Dragon, and Lotus variants.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-05-14T13:46:09Z",
+            "owner": "sravioli",
+            "repo": "kanagawa.wz",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "willytop8/Wezterm-Window-Tint",
+          "description": "Color the window frame, tab bar, and status badge by the active pane's Git root.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-06-29T04:17:16Z",
+            "owner": "willytop8",
+            "repo": "Wezterm-Window-Tint",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tomauskasz/electric-control-room.wez",
+          "description": "Animated electric control-room theme with layered APNG background effects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-16T21:03:03Z",
+            "owner": "Tomauskasz",
+            "repo": "electric-control-room.wez",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Themes"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "zsh-sage/toggle_terminal.wez",
+          "description": "An easy-to-use toggleable terminal window.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-10-22T12:47:05Z",
+            "owner": "zsh-sage",
+            "repo": "toggle_terminal.wez",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChrisGVE/listeners.wezterm",
+          "description": "Enables enhanced event listener capabilities with persistent state management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-05-26T08:55:52Z",
+            "owner": "ChrisGVE",
+            "repo": "listeners.wezterm",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChrisGVE/lib.wezterm",
+          "description": "A library of common utility functions for plugin developers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-05-26T08:56:13Z",
+            "owner": "ChrisGVE",
+            "repo": "lib.wezterm",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quantonganh/quickselect.wezterm",
+          "description": "Jump to the build error by opening them in Helix.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-12-13T03:36:24Z",
+            "owner": "quantonganh",
+            "repo": "quickselect.wezterm",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChrisGVE/dev.wezterm",
+          "description": "Location resolver for development and deployment of a plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-05-26T08:39:23Z",
+            "owner": "ChrisGVE",
+            "repo": "dev.wezterm",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "usrivastava92/widgets.wez",
+          "description": "Cross-platform status bar widgets for CPU, RAM, battery, network, and disk on macOS, Linux, and Windows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-06-29T18:43:27Z",
+            "owner": "usrivastava92",
+            "repo": "widgets.wez",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aureolebigben/wezterm-cmd-sender",
+          "description": "Send commands to multiple panes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-04-19T10:53:23Z",
+            "owner": "aureolebigben",
+            "repo": "wezterm-cmd-sender",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dfsramos/wezterm-sync",
+          "description": "Sync your config across machines via a private GitHub Gist, with zero external dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-05-11T20:30:16Z",
+            "owner": "dfsramos",
+            "repo": "wezterm-sync",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sravioli/lantern.wz",
+          "description": "Selector framework for colorschemes, fonts, GPU adapters, window appearance, and custom config presets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-05-14T13:46:36Z",
+            "owner": "sravioli",
+            "repo": "lantern.wz",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sravioli/memo.wz",
+          "description": "Memoization, caching, and persistent state management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-05-14T13:49:28Z",
+            "owner": "sravioli",
+            "repo": "memo.wz",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sravioli/ribbon.wz",
+          "description": "Builds styled text segments for status bars, tab titles, and selector previews.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-05-14T13:55:45Z",
+            "owner": "sravioli",
+            "repo": "ribbon.wz",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sravioli/warp.wz",
+          "description": "General-purpose utility library with string, table, list, path, and filesystem helpers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-05-14T13:58:53Z",
+            "owner": "sravioli",
+            "repo": "warp.wz",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "btrachey/wezterm-replay",
+          "description": "Parse command output and get URLs, shell commands, etc. pasted into your next prompt.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-09-18T12:17:31Z",
+            "owner": "btrachey",
+            "repo": "wezterm-replay",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sravioli/log.wz",
+          "description": "Tagged logging library with pluggable sinks and severity thresholds.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-05-14T13:48:49Z",
+            "owner": "sravioli",
+            "repo": "log.wz",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sravioli/sigil.wz",
+          "description": "Icon and identity-color registry for processes, tools, and UI labels.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-05-14T13:58:04Z",
+            "owner": "sravioli",
+            "repo": "sigil.wz",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Utility"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:03:35.056Z",
+    "original_repository": "michaelbrusegard/awesome-wezterm",
+    "original_repository_sha": "dcf976b0298f6ac0f0a5f0c69e21ae5434fcd4e9",
+    "enhanced_repository": "enhansome/enhansome-wezterm",
+    "enhanced_repository_description": null,
+    "title": "Awesome WezTerm with stars"
+  }
+}
