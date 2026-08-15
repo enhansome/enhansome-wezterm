@@ -118,7 +118,7 @@
             "last_commit": "2026-05-25T21:13:26Z",
             "owner": "abidibo",
             "repo": "wezterm-cmdpicker",
-            "stars": 15
+            "stars": 16
           }
         },
         {
@@ -191,7 +191,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-08T01:45:58Z",
+            "last_commit": "2026-08-14T16:49:15Z",
             "owner": "mrjones2014",
             "repo": "smart-splits.nvim",
             "stars": 1710
@@ -433,7 +433,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-03-23T14:14:50Z",
+            "last_commit": "2026-08-14T19:21:39Z",
             "owner": "yriveiro",
             "repo": "wezterm-tabs",
             "stars": 30
@@ -464,7 +464,7 @@
             "last_commit": "2026-07-23T11:25:48Z",
             "owner": "pro-vi",
             "repo": "wezterm-attention",
-            "stars": 16
+            "stars": 17
           }
         },
         {
@@ -778,7 +778,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T04:20:33.092Z",
+    "last_updated": "2026-08-15T03:08:46.254Z",
     "original_repository": "michaelbrusegard/awesome-wezterm",
     "original_repository_sha": "dcf976b0298f6ac0f0a5f0c69e21ae5434fcd4e9",
     "enhanced_repository": "enhansome/enhansome-wezterm",
