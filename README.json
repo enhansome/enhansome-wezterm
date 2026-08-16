@@ -47,20 +47,6 @@
         },
         {
           "node_type": "item",
-          "title": "EdenGibson/wezterm-quota-limit",
-          "description": "Shows Claude API usage quota in the status bar with color-coded thresholds and automatic token refresh.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2026-06-21T05:34:32Z",
-            "owner": "EdenGibson",
-            "repo": "wezterm-quota-limit",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
           "title": "M-Marbouh/agent-quota.wezterm",
           "description": "Shows Claude and Codex quota usage in the status bar with reset countdowns, process-aware states, and shared caching.",
           "children": [],
@@ -70,6 +56,20 @@
             "last_commit": "2026-07-10T22:11:17Z",
             "owner": "M-Marbouh",
             "repo": "agent-quota.wezterm",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EdenGibson/wezterm-quota-limit",
+          "description": "Shows Claude API usage quota in the status bar with color-coded thresholds and automatic token refresh.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-06-21T05:34:32Z",
+            "owner": "EdenGibson",
+            "repo": "wezterm-quota-limit",
             "stars": 4
           }
         }
@@ -118,7 +118,7 @@
             "last_commit": "2026-05-25T21:13:26Z",
             "owner": "abidibo",
             "repo": "wezterm-cmdpicker",
-            "stars": 16
+            "stars": 17
           }
         },
         {
@@ -408,7 +408,7 @@
             "last_commit": "2026-07-23T21:52:06Z",
             "owner": "michaelbrusegard",
             "repo": "tabline.wez",
-            "stars": 302
+            "stars": 303
           }
         },
         {
@@ -464,7 +464,7 @@
             "last_commit": "2026-07-23T11:25:48Z",
             "owner": "pro-vi",
             "repo": "wezterm-attention",
-            "stars": 17
+            "stars": 18
           }
         },
         {
@@ -778,7 +778,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T03:08:46.254Z",
+    "last_updated": "2026-08-16T03:16:25.039Z",
     "original_repository": "michaelbrusegard/awesome-wezterm",
     "original_repository_sha": "dcf976b0298f6ac0f0a5f0c69e21ae5434fcd4e9",
     "enhanced_repository": "enhansome/enhansome-wezterm",

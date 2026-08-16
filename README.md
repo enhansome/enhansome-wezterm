@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/wez/wezterm/main/assets/icon/wezterm-icon.svg" align="right" width="144" />
 
-> Collections of awesome WezTerm plugins. [Plugin Guide](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md) ⭐ 28,363 | 🐛 1,808 | 🌐 Rust | 📅 2026-08-12. Found something cool? Please [contribute](CONTRIBUTING.md)!
+> Collections of awesome WezTerm plugins. [Plugin Guide](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md) ⭐ 28,378 | 🐛 1,810 | 🌐 Rust | 📅 2026-08-15. Found something cool? Please [contribute](CONTRIBUTING.md)!
 
 [WezTerm](https://wezfurlong.org/wezterm/) is a powerful cross-platform terminal emulator and multiplexer written by [@wez](https://github.com/wez) and implemented in [Rust](https://www.rust-lang.org).
 
@@ -29,14 +29,14 @@ To enhance your WezTerm configuration experience:
 * [Eric162/wezterm-agent-deck](https://github.com/Eric162/wezterm-agent-deck) ⭐ 74 | 🐛 1 | 🌐 Lua | 📅 2026-03-26 - Monitors AI coding agents, shows status dots in tabs and notifications when agents need attention.
 * [Michal1993r/ai-helper.wezterm](https://github.com/Michal1993r/ai-helper.wezterm/tree/master) ⭐ 37 | 🐛 1 | 🌐 Lua | 📅 2026-03-13 - Ask AI for CLI help with LM Studio or Google Gemini.
 * [dimao/ai-commander.wezterm](https://github.com/dimao/ai-commander.wezterm) ⭐ 9 | 🐛 1 | 🌐 Lua | 📅 2026-05-09 - Generate and select bash commands based on natural language prompts.
+* [M-Marbouh/agent-quota.wezterm](https://github.com/M-Marbouh/agent-quota.wezterm) ⭐ 5 | 🐛 0 | 🌐 Lua | 📅 2026-07-10 - Shows Claude and Codex quota usage in the status bar with reset countdowns, process-aware states, and shared caching.
 * [EdenGibson/wezterm-quota-limit](https://github.com/EdenGibson/wezterm-quota-limit) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2026-06-21 - Shows Claude API usage quota in the status bar with color-coded thresholds and automatic token refresh.
-* [M-Marbouh/agent-quota.wezterm](https://github.com/M-Marbouh/agent-quota.wezterm) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2026-07-10 - Shows Claude and Codex quota usage in the status bar with reset countdowns, process-aware states, and shared caching.
 
 ## Keybinding
 
 * [MLFlexer/modal.wezterm](https://github.com/MLFlexer/modal.wezterm) ⚠️ Archived - Predefined Vim-like modal keybindings with a good looking UI.
 * [sei40kr/wez-tmux](https://github.com/sei40kr/wez-tmux) ⭐ 55 | 🐛 2 | 🌐 Lua | 📅 2025-11-03 - Ported tmux keybindings.
-* [abidibo/wezterm-cmdpicker](https://github.com/abidibo/wezterm-cmdpicker) ⭐ 16 | 🐛 0 | 🌐 Lua | 📅 2026-05-25 - Add a command-palette-style fuzzy picker for keybindings. Press a trigger key to search and execute any keybinding — user-defined, config, or WezTerm defaults.
+* [abidibo/wezterm-cmdpicker](https://github.com/abidibo/wezterm-cmdpicker) ⭐ 17 | 🐛 0 | 🌐 Lua | 📅 2026-05-25 - Add a command-palette-style fuzzy picker for keybindings. Press a trigger key to search and execute any keybinding — user-defined, config, or WezTerm defaults.
 * [sei40kr/wez-pain-control](https://github.com/sei40kr/wez-pain-control?tab=readme-ov-file) ⭐ 10 | 🐛 0 | 🌐 Lua | 📅 2023-11-21 - Pane control keybindings like tmux-pain-control.
 * [annie444/sync-panes.wez](https://github.com/annie444/sync-panes.wez) ⭐ 6 | 🐛 3 | 🌐 Lua | 📅 2026-07-09 - Mirrors your keystrokes to every pane in the active tab — the equivalent of tmux's `synchronize-panes`.
 * [sravioli/chord.wz](https://github.com/sravioli/chord.wz) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2026-05-14 - Vim-style key notation, modal key tables, and hint bars.
@@ -71,11 +71,11 @@ To enhance your WezTerm configuration experience:
 
 ## Tab bar
 
-* [michaelbrusegard/tabline.wez](https://github.com/michaelbrusegard/tabline.wez) ⭐ 302 | 🐛 3 | 🌐 Lua | 📅 2026-07-23 - A versatile and easy to use retro tab bar with the `lualine.nvim` configuration format.
+* [michaelbrusegard/tabline.wez](https://github.com/michaelbrusegard/tabline.wez) ⭐ 303 | 🐛 3 | 🌐 Lua | 📅 2026-07-23 - A versatile and easy to use retro tab bar with the `lualine.nvim` configuration format.
 * [adriankarlen/bar.wezterm](https://github.com/adriankarlen/bar.wezterm) ⭐ 238 | 🐛 1 | 🌐 Lua | 📅 2026-04-15 - A configurable tab bar with batteries included.
 * [yriveiro/wezterm-tabs](https://github.com/yriveiro/wezterm-tabs) ⭐ 30 | 🐛 1 | 🌐 Lua | 📅 2026-08-14 - Configurable tabs for the retro tab bar.
 * [yriveiro/wezterm-status](https://github.com/yriveiro/wezterm-status) ⭐ 24 | 🐛 0 | 🌐 Lua | 📅 2026-03-23 - Configurable status for the retro tab bar.
-* [pro-vi/wezterm-attention](https://github.com/pro-vi/wezterm-attention) ⭐ 17 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-23 - Turns your tab bar into a notification system with colored tab indicators.
+* [pro-vi/wezterm-attention](https://github.com/pro-vi/wezterm-attention) ⭐ 18 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-23 - Turns your tab bar into a notification system with colored tab indicators.
 * [rootiest/battery.wez](https://github.com/rootiest/battery.wez) ⭐ 10 | 🐛 0 | 🌐 Lua | 📅 2024-10-07 - A colorful and fancy battery component for the retro tab bar.
 
 ## Themes
@@ -107,4 +107,4 @@ To enhance your WezTerm configuration experience:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
