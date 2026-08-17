@@ -194,7 +194,7 @@
             "last_commit": "2026-08-14T16:49:15Z",
             "owner": "mrjones2014",
             "repo": "smart-splits.nvim",
-            "stars": 1710
+            "stars": 1711
           }
         },
         {
@@ -450,7 +450,7 @@
             "last_commit": "2026-03-23T14:07:11Z",
             "owner": "yriveiro",
             "repo": "wezterm-status",
-            "stars": 24
+            "stars": 25
           }
         },
         {
@@ -778,7 +778,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T03:16:25.039Z",
+    "last_updated": "2026-08-17T03:16:42.449Z",
     "original_repository": "michaelbrusegard/awesome-wezterm",
     "original_repository_sha": "dcf976b0298f6ac0f0a5f0c69e21ae5434fcd4e9",
     "enhanced_repository": "enhansome/enhansome-wezterm",
