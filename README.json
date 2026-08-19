@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1132801029,
             "language": "Lua",
             "last_commit": "2026-03-26T13:04:57Z",
             "owner": "Eric162",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 992756894,
             "language": "Lua",
             "last_commit": "2026-03-13T13:34:38Z",
             "owner": "Michal1993r",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1043752919,
             "language": "Lua",
             "last_commit": "2026-05-09T17:04:23Z",
             "owner": "dimao",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1187860165,
             "language": "Lua",
             "last_commit": "2026-07-10T22:11:17Z",
             "owner": "M-Marbouh",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1175729121,
             "language": "Lua",
             "last_commit": "2026-06-21T05:34:32Z",
             "owner": "EdenGibson",
@@ -77,7 +82,7 @@
       "title": "AI"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 788045678,
             "language": "Lua",
             "last_commit": "2026-05-24T17:06:45Z",
             "owner": "MLFlexer",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 721628220,
             "language": "Lua",
             "last_commit": "2025-11-03T04:49:48Z",
             "owner": "sei40kr",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1178776836,
             "language": "Lua",
             "last_commit": "2026-05-25T21:13:26Z",
             "owner": "abidibo",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 721581375,
             "language": "Lua",
             "last_commit": "2023-11-21T14:59:09Z",
             "owner": "sei40kr",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1259637515,
             "language": "Lua",
             "last_commit": "2026-07-09T22:00:46Z",
             "owner": "annie444",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1233289215,
             "language": "Lua",
             "last_commit": "2026-05-14T13:33:37Z",
             "owner": "sravioli",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1030216734,
             "language": "Lua",
             "last_commit": "2025-08-16T13:59:41Z",
             "owner": "selectnull",
@@ -181,7 +193,7 @@
       "title": "Keybinding"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -190,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 471784921,
             "language": "Lua",
             "last_commit": "2026-08-14T16:49:15Z",
             "owner": "mrjones2014",
@@ -204,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 702321908,
             "language": "Lua",
             "last_commit": "2026-04-01T23:14:51Z",
             "owner": "winter-again",
@@ -215,7 +229,7 @@
       "title": "Neovim"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -224,6 +238,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 966275125,
             "language": "Lua",
             "last_commit": "2026-03-06T17:39:42Z",
             "owner": "ChrisGVE",
@@ -238,6 +253,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1102698901,
             "language": "Lua",
             "last_commit": "2025-11-23T23:14:17Z",
             "owner": "bad-noodles",
@@ -249,7 +265,7 @@
       "title": "Panes"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -258,6 +274,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 665890995,
             "language": "Lua",
             "last_commit": "2026-05-24T17:06:13Z",
             "owner": "MLFlexer",
@@ -272,6 +289,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 850469189,
             "language": "Lua",
             "last_commit": "2025-07-05T23:40:07Z",
             "owner": "mikkasendke",
@@ -286,6 +304,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 854167313,
             "language": "Lua",
             "last_commit": "2026-02-01T17:39:16Z",
             "owner": "DavidRR-F",
@@ -300,6 +319,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 924003465,
             "language": "Lua",
             "last_commit": "2026-05-25T21:12:36Z",
             "owner": "abidibo",
@@ -314,6 +334,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 977620249,
             "language": "Lua",
             "last_commit": "2026-03-03T05:47:38Z",
             "owner": "vieitesss",
@@ -328,6 +349,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1131701648,
             "language": "Lua",
             "last_commit": "2026-05-17T08:53:30Z",
             "owner": "isseii10",
@@ -342,6 +364,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1147055443,
             "language": "Lua",
             "last_commit": "2026-04-24T19:41:43Z",
             "owner": "ryanmsnyder",
@@ -356,6 +379,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1092328286,
             "language": "Lua",
             "last_commit": "2026-03-02T16:42:18Z",
             "owner": "JuanraCM",
@@ -370,6 +394,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1280921589,
             "language": "Lua",
             "last_commit": "2026-07-14T01:36:03Z",
             "owner": "StephenGemin",
@@ -384,6 +409,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1116544903,
             "language": "Lua",
             "last_commit": "2026-05-16T20:01:36Z",
             "owner": "srackham",
@@ -395,7 +421,7 @@
       "title": "Session"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -404,6 +430,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 846297240,
             "language": "Lua",
             "last_commit": "2026-07-23T21:52:06Z",
             "owner": "michaelbrusegard",
@@ -418,6 +445,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 797614886,
             "language": "Lua",
             "last_commit": "2026-04-15T14:27:06Z",
             "owner": "adriankarlen",
@@ -432,6 +460,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 837885669,
             "language": "Lua",
             "last_commit": "2026-08-14T19:21:39Z",
             "owner": "yriveiro",
@@ -446,6 +475,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 828232494,
             "language": "Lua",
             "last_commit": "2026-03-23T14:07:11Z",
             "owner": "yriveiro",
@@ -460,6 +490,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1186556139,
             "language": "TypeScript",
             "last_commit": "2026-07-23T11:25:48Z",
             "owner": "pro-vi",
@@ -474,6 +505,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 865963985,
             "language": "Lua",
             "last_commit": "2024-10-07T17:51:50Z",
             "owner": "rootiest",
@@ -485,7 +517,7 @@
       "title": "Tab bar"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -494,6 +526,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 475219144,
             "language": "Lua",
             "last_commit": "2024-05-11T16:40:59Z",
             "owner": "neapsix",
@@ -508,6 +541,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 953292721,
             "language": "Lua",
             "last_commit": "2025-03-23T07:38:17Z",
             "owner": "koh-sh",
@@ -522,6 +556,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1186688414,
             "language": "Lua",
             "last_commit": "2026-05-14T13:46:09Z",
             "owner": "sravioli",
@@ -536,6 +571,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1243122475,
             "language": "Lua",
             "last_commit": "2026-06-29T04:17:16Z",
             "owner": "willytop8",
@@ -550,6 +586,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1295048934,
             "language": "Lua",
             "last_commit": "2026-07-16T21:03:03Z",
             "owner": "Tomauskasz",
@@ -561,7 +598,7 @@
       "title": "Themes"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -570,6 +607,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 964973297,
             "language": "Lua",
             "last_commit": "2025-10-22T12:47:05Z",
             "owner": "zsh-sage",
@@ -584,6 +622,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 955522881,
             "language": "Lua",
             "last_commit": "2026-05-26T08:55:52Z",
             "owner": "ChrisGVE",
@@ -598,6 +637,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 960555907,
             "language": "Lua",
             "last_commit": "2026-05-26T08:56:13Z",
             "owner": "ChrisGVE",
@@ -612,6 +652,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1030764977,
             "language": "Lua",
             "last_commit": "2025-12-13T03:36:24Z",
             "owner": "quantonganh",
@@ -626,6 +667,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 955556656,
             "language": "Lua",
             "last_commit": "2026-05-26T08:39:23Z",
             "owner": "ChrisGVE",
@@ -640,6 +682,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1264863217,
             "language": "Lua",
             "last_commit": "2026-06-29T18:43:27Z",
             "owner": "usrivastava92",
@@ -654,6 +697,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 848163226,
             "language": "Lua",
             "last_commit": "2026-04-19T10:53:23Z",
             "owner": "aureolebigben",
@@ -668,6 +712,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1235946918,
             "language": "Lua",
             "last_commit": "2026-05-11T20:30:16Z",
             "owner": "dfsramos",
@@ -682,6 +727,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1198806635,
             "language": "Lua",
             "last_commit": "2026-05-14T13:46:36Z",
             "owner": "sravioli",
@@ -696,6 +742,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1186343024,
             "language": "Lua",
             "last_commit": "2026-05-14T13:49:28Z",
             "owner": "sravioli",
@@ -710,6 +757,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1233183108,
             "language": "Lua",
             "last_commit": "2026-05-14T13:55:45Z",
             "owner": "sravioli",
@@ -724,6 +772,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1189369925,
             "language": "Lua",
             "last_commit": "2026-05-14T13:58:53Z",
             "owner": "sravioli",
@@ -738,6 +787,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1012128593,
             "language": "Lua",
             "last_commit": "2025-09-18T12:17:31Z",
             "owner": "btrachey",
@@ -752,6 +802,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1185680647,
             "language": "Lua",
             "last_commit": "2026-05-14T13:48:49Z",
             "owner": "sravioli",
@@ -766,6 +817,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1233325472,
             "language": "Lua",
             "last_commit": "2026-05-14T13:58:04Z",
             "owner": "sravioli",
@@ -778,8 +830,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:15:22.429Z",
+    "last_updated": "2026-08-19T12:58:48.342Z",
     "original_repository": "michaelbrusegard/awesome-wezterm",
+    "original_repository_id": 853943536,
     "original_repository_sha": "dcf976b0298f6ac0f0a5f0c69e21ae5434fcd4e9",
     "enhanced_repository": "enhansome/enhansome-wezterm",
     "enhanced_repository_description": null,
