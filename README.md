@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/wez/wezterm/main/assets/icon/wezterm-icon.svg" align="right" width="144" />
 
-> Collections of awesome WezTerm plugins. [Plugin Guide](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md) ⭐ 28,443 | 🐛 1,815 | 🌐 Rust | 📅 2026-08-18. Found something cool? Please [contribute](CONTRIBUTING.md)!
+> Collections of awesome WezTerm plugins. [Plugin Guide](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md) ⭐ 28,455 | 🐛 1,812 | 🌐 Rust | 📅 2026-08-19. Found something cool? Please [contribute](CONTRIBUTING.md)!
 
 [WezTerm](https://wezfurlong.org/wezterm/) is a powerful cross-platform terminal emulator and multiplexer written by [@wez](https://github.com/wez) and implemented in [Rust](https://www.rust-lang.org).
 
@@ -48,7 +48,7 @@ To enhance your WezTerm configuration experience:
 
 ## Neovim
 
-* [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) ⭐ 1,711 | 🐛 20 | 🌐 Lua | 📅 2026-08-14 - Provides an addon for seamless pane navigation between Neovim and the WezTerm MUX.
+* [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) ⭐ 1,711 | 🐛 21 | 🌐 Lua | 📅 2026-08-14 - Provides an addon for seamless pane navigation between Neovim and the WezTerm MUX.
 * [winter-again/wezterm-config.nvim](https://github.com/winter-again/wezterm-config.nvim) ⭐ 72 | 🐛 2 | 🌐 Lua | 📅 2026-04-01 - Interact with the WezTerm configuration directly from Neovim.
 
 ## Panes
@@ -107,4 +107,4 @@ To enhance your WezTerm configuration experience:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
