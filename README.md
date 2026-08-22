@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/wez/wezterm/main/assets/icon/wezterm-icon.svg" align="right" width="144" />
 
-> Collections of awesome WezTerm plugins. [Plugin Guide](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md) ⭐ 28,473 | 🐛 1,815 | 🌐 Rust | 📅 2026-08-20. Found something cool? Please [contribute](CONTRIBUTING.md)!
+> Collections of awesome WezTerm plugins. [Plugin Guide](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md) ⭐ 28,488 | 🐛 1,821 | 🌐 Rust | 📅 2026-08-20. Found something cool? Please [contribute](CONTRIBUTING.md)!
 
 [WezTerm](https://wezfurlong.org/wezterm/) is a powerful cross-platform terminal emulator and multiplexer written by [@wez](https://github.com/wez) and implemented in [Rust](https://www.rust-lang.org).
 
@@ -29,7 +29,7 @@ To enhance your WezTerm configuration experience:
 * [Eric162/wezterm-agent-deck](https://github.com/Eric162/wezterm-agent-deck) ⭐ 74 | 🐛 1 | 🌐 Lua | 📅 2026-03-26 - Monitors AI coding agents, shows status dots in tabs and notifications when agents need attention.
 * [Michal1993r/ai-helper.wezterm](https://github.com/Michal1993r/ai-helper.wezterm/tree/master) ⭐ 37 | 🐛 1 | 🌐 Lua | 📅 2026-03-13 - Ask AI for CLI help with LM Studio or Google Gemini.
 * [dimao/ai-commander.wezterm](https://github.com/dimao/ai-commander.wezterm) ⭐ 10 | 🐛 2 | 🌐 Lua | 📅 2026-05-09 - Generate and select bash commands based on natural language prompts.
-* [M-Marbouh/agent-quota.wezterm](https://github.com/M-Marbouh/agent-quota.wezterm) ⭐ 5 | 🐛 0 | 🌐 Lua | 📅 2026-07-10 - Shows Claude and Codex quota usage in the status bar with reset countdowns, process-aware states, and shared caching.
+* [M-Marbouh/agent-quota.wezterm](https://github.com/M-Marbouh/agent-quota.wezterm) ⭐ 5 | 🐛 0 | 🌐 Lua | 📅 2026-08-21 - Shows Claude and Codex quota usage in the status bar with reset countdowns, process-aware states, and shared caching.
 * [EdenGibson/wezterm-quota-limit](https://github.com/EdenGibson/wezterm-quota-limit) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2026-06-21 - Shows Claude API usage quota in the status bar with color-coded thresholds and automatic token refresh.
 
 ## Keybinding
@@ -41,6 +41,7 @@ To enhance your WezTerm configuration experience:
 * [annie444/sync-panes.wez](https://github.com/annie444/sync-panes.wez) ⭐ 6 | 🐛 3 | 🌐 Lua | 📅 2026-07-09 - Mirrors your keystrokes to every pane in the active tab — the equivalent of tmux's `synchronize-panes`.
 * [sravioli/chord.wz](https://github.com/sravioli/chord.wz) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2026-05-14 - Vim-style key notation, modal key tables, and hint bars.
 * [selectnull/pinned-tabs.wezterm](https://github.com/selectnull/pinned-tabs.wezterm) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2025-08-16 - Lets you assign a key binding to a specific tab.
+* [KawaiiSelbst/nu\_utf8\_hack.wez](https://github.com/KawaiiSelbst/nu_utf8_hack.wez) ⭐ 0 | 🐛 0 | 🌐 Lua | 📅 2026-01-11 - Rough hack for correct handling utf8 symbols with `SHIFT` key with `kitty-keyboard-protocol` for users of nushell.
 * [KawaiiSelbst/keys\_bypass.wez](https://github.com/KawaiiSelbst/keys_bypass.wez) ⭐ 0 | 🐛 0 | 🌐 Lua | 📅 2026-07-15 - Bypasses WezTerm shortcuts to send keys to the foreground process (e.g., Zellij or tmux).
 
 ## Media
@@ -49,7 +50,7 @@ To enhance your WezTerm configuration experience:
 
 ## Neovim
 
-* [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) ⭐ 1,712 | 🐛 22 | 🌐 Lua | 📅 2026-08-14 - Provides an addon for seamless pane navigation between Neovim and the WezTerm MUX.
+* [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) ⭐ 1,712 | 🐛 22 | 🌐 Lua | 📅 2026-08-22 - Provides an addon for seamless pane navigation between Neovim and the WezTerm MUX.
 * [winter-again/wezterm-config.nvim](https://github.com/winter-again/wezterm-config.nvim) ⭐ 72 | 🐛 2 | 🌐 Lua | 📅 2026-04-01 - Interact with the WezTerm configuration directly from Neovim.
 
 ## Panes
@@ -108,4 +109,4 @@ To enhance your WezTerm configuration experience:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._

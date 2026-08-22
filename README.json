@@ -57,7 +57,7 @@
             "archived": false,
             "id": 1187860165,
             "language": "Lua",
-            "last_commit": "2026-07-10T22:11:17Z",
+            "last_commit": "2026-08-21T13:28:09Z",
             "owner": "M-Marbouh",
             "repo": "agent-quota.wezterm",
             "stars": 5
@@ -191,6 +191,21 @@
         },
         {
           "node_type": "item",
+          "title": "KawaiiSelbst/nu_utf8_hack.wez",
+          "description": "Rough hack for correct handling utf8 symbols with key with for users of nushell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1131659250,
+            "language": "Lua",
+            "last_commit": "2026-01-11T04:03:21Z",
+            "owner": "KawaiiSelbst",
+            "repo": "nu_utf8_hack.wez",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
           "title": "KawaiiSelbst/keys_bypass.wez",
           "description": "Bypasses WezTerm shortcuts to send keys to the foreground process (e.g., Zellij or tmux).",
           "children": [],
@@ -219,7 +234,7 @@
             "archived": false,
             "id": 471784921,
             "language": "Lua",
-            "last_commit": "2026-08-14T16:49:15Z",
+            "last_commit": "2026-08-22T01:31:23Z",
             "owner": "mrjones2014",
             "repo": "smart-splits.nvim",
             "stars": 1712
@@ -845,10 +860,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T03:25:58.392Z",
+    "last_updated": "2026-08-22T03:11:12.567Z",
     "original_repository": "michaelbrusegard/awesome-wezterm",
     "original_repository_id": 853943536,
-    "original_repository_sha": "6dd10517f8ba1c65d385bfdb8bd0e1d8fe7c0a5e",
+    "original_repository_sha": "6ed4e910fcf8f6968a65df5ce01a3dfd7f8bb438",
     "enhanced_repository": "enhansome/enhansome-wezterm",
     "enhanced_repository_description": null,
     "title": "Awesome WezTerm with stars"
