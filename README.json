@@ -30,7 +30,7 @@
             "last_commit": "2026-03-13T13:34:38Z",
             "owner": "Michal1993r",
             "repo": "ai-helper.wezterm",
-            "stars": 37
+            "stars": 38
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-05-09T17:04:23Z",
             "owner": "dimao",
             "repo": "ai-commander.wezterm",
-            "stars": 10
+            "stars": 11
           }
         },
         {
@@ -522,7 +522,7 @@
             "archived": false,
             "id": 1186556139,
             "language": "Lua",
-            "last_commit": "2026-08-23T22:39:39Z",
+            "last_commit": "2026-08-24T04:57:57Z",
             "owner": "pro-vi",
             "repo": "wezterm-attention",
             "stars": 18
@@ -860,7 +860,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:27:46.530Z",
+    "last_updated": "2026-08-24T14:17:07.385Z",
     "original_repository": "michaelbrusegard/awesome-wezterm",
     "original_repository_id": 853943536,
     "original_repository_sha": "6ed4e910fcf8f6968a65df5ce01a3dfd7f8bb438",
