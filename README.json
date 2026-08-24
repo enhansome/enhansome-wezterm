@@ -75,7 +75,7 @@
             "last_commit": "2026-06-21T05:34:32Z",
             "owner": "EdenGibson",
             "repo": "wezterm-quota-limit",
-            "stars": 4
+            "stars": 3
           }
         }
       ],
@@ -237,7 +237,7 @@
             "last_commit": "2026-08-22T01:31:23Z",
             "owner": "mrjones2014",
             "repo": "smart-splits.nvim",
-            "stars": 1712
+            "stars": 1713
           }
         },
         {
@@ -521,8 +521,8 @@
           "repo_info": {
             "archived": false,
             "id": 1186556139,
-            "language": "TypeScript",
-            "last_commit": "2026-07-23T11:25:48Z",
+            "language": "Lua",
+            "last_commit": "2026-08-23T22:39:39Z",
             "owner": "pro-vi",
             "repo": "wezterm-attention",
             "stars": 18
@@ -860,7 +860,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T03:25:58.826Z",
+    "last_updated": "2026-08-24T03:27:46.530Z",
     "original_repository": "michaelbrusegard/awesome-wezterm",
     "original_repository_id": 853943536,
     "original_repository_sha": "6ed4e910fcf8f6968a65df5ce01a3dfd7f8bb438",
