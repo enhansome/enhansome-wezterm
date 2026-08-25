@@ -522,7 +522,7 @@
             "archived": false,
             "id": 1186556139,
             "language": "Lua",
-            "last_commit": "2026-08-24T04:57:57Z",
+            "last_commit": "2026-08-25T02:34:22Z",
             "owner": "pro-vi",
             "repo": "wezterm-attention",
             "stars": 18
@@ -860,7 +860,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:17:07.385Z",
+    "last_updated": "2026-08-25T03:16:15.157Z",
     "original_repository": "michaelbrusegard/awesome-wezterm",
     "original_repository_id": 853943536,
     "original_repository_sha": "6ed4e910fcf8f6968a65df5ce01a3dfd7f8bb438",
