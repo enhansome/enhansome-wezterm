@@ -237,7 +237,7 @@
             "last_commit": "2026-08-22T01:31:23Z",
             "owner": "mrjones2014",
             "repo": "smart-splits.nvim",
-            "stars": 1713
+            "stars": 1715
           }
         },
         {
@@ -525,7 +525,7 @@
             "last_commit": "2026-08-25T02:34:22Z",
             "owner": "pro-vi",
             "repo": "wezterm-attention",
-            "stars": 18
+            "stars": 19
           }
         },
         {
@@ -860,9 +860,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:29:14.742Z",
-    "original_repository": "michaelbrusegard/awesome-wezterm",
-    "original_repository_id": 853943536,
+    "last_updated": "2026-08-27T12:10:30.510Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 853943536,
+      "language": null,
+      "last_commit": "2026-08-21T07:55:21Z",
+      "owner": "michaelbrusegard",
+      "repo": "awesome-wezterm",
+      "stars": 736
+    },
     "original_repository_sha": "6ed4e910fcf8f6968a65df5ce01a3dfd7f8bb438",
     "enhanced_repository": "enhansome/enhansome-wezterm",
     "enhanced_repository_description": null,
