@@ -16,7 +16,8 @@
             "owner": "Eric162",
             "repo": "wezterm-agent-deck",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "Michal1993r",
             "repo": "ai-helper.wezterm",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "dimao",
             "repo": "ai-commander.wezterm",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -57,11 +60,12 @@
             "archived": false,
             "id": 1187860165,
             "language": "Lua",
-            "last_commit": "2026-08-21T13:28:09Z",
+            "last_commit": "2026-08-28T11:04:18Z",
             "owner": "M-Marbouh",
             "repo": "agent-quota.wezterm",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "EdenGibson",
             "repo": "wezterm-quota-limit",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         }
       ],
       "title": "AI"
@@ -97,7 +102,8 @@
             "owner": "MLFlexer",
             "repo": "modal.wezterm",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "sei40kr",
             "repo": "wez-tmux",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "abidibo",
             "repo": "wezterm-cmdpicker",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "sei40kr",
             "repo": "wez-pain-control",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "annie444",
             "repo": "sync-panes.wez",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "sravioli",
             "repo": "chord.wz",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "selectnull",
             "repo": "pinned-tabs.wezterm",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "KawaiiSelbst",
             "repo": "nu_utf8_hack.wez",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "KawaiiSelbst",
             "repo": "keys_bypass.wez",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         }
       ],
       "title": "Keybinding"
@@ -237,8 +251,9 @@
             "last_commit": "2026-08-22T01:31:23Z",
             "owner": "mrjones2014",
             "repo": "smart-splits.nvim",
-            "stars": 1715
-          }
+            "stars": 1716
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "winter-again",
             "repo": "wezterm-config.nvim",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         }
       ],
       "title": "Neovim"
@@ -274,7 +290,8 @@
             "owner": "ChrisGVE",
             "repo": "pivot_panes.wezterm",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -289,7 +306,8 @@
             "owner": "bad-noodles",
             "repo": "stack.wez",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         }
       ],
       "title": "Panes"
@@ -310,7 +328,8 @@
             "owner": "MLFlexer",
             "repo": "smart_workspace_switcher.wezterm",
             "stars": 205
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -325,7 +344,8 @@
             "owner": "mikkasendke",
             "repo": "sessionizer.wezterm",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -340,7 +360,8 @@
             "owner": "DavidRR-F",
             "repo": "quick_domains.wezterm",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -355,7 +376,8 @@
             "owner": "abidibo",
             "repo": "wezterm-sessions",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -370,7 +392,8 @@
             "owner": "vieitesss",
             "repo": "workspacesionizer.wezterm",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -385,7 +408,8 @@
             "owner": "isseii10",
             "repo": "workspace-picker.wezterm",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -400,7 +424,8 @@
             "owner": "ryanmsnyder",
             "repo": "workspace-manager.wezterm",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -415,7 +440,8 @@
             "owner": "JuanraCM",
             "repo": "wsinit.wezterm",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -430,7 +456,8 @@
             "owner": "StephenGemin",
             "repo": "resurrect.wezterm",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -445,7 +472,8 @@
             "owner": "srackham",
             "repo": "tabsets.wezterm",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         }
       ],
       "title": "Session"
@@ -466,7 +494,8 @@
             "owner": "michaelbrusegard",
             "repo": "tabline.wez",
             "stars": 304
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -481,7 +510,8 @@
             "owner": "adriankarlen",
             "repo": "bar.wezterm",
             "stars": 238
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -496,7 +526,8 @@
             "owner": "yriveiro",
             "repo": "wezterm-tabs",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -511,7 +542,8 @@
             "owner": "yriveiro",
             "repo": "wezterm-status",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -526,7 +558,8 @@
             "owner": "pro-vi",
             "repo": "wezterm-attention",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -541,7 +574,8 @@
             "owner": "rootiest",
             "repo": "battery.wez",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         }
       ],
       "title": "Tab bar"
@@ -562,7 +596,8 @@
             "owner": "neapsix",
             "repo": "wezterm",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -577,7 +612,8 @@
             "owner": "koh-sh",
             "repo": "wezterm-theme-rotator",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -592,7 +628,8 @@
             "owner": "sravioli",
             "repo": "kanagawa.wz",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -607,7 +644,8 @@
             "owner": "willytop8",
             "repo": "Wezterm-Window-Tint",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -622,7 +660,8 @@
             "owner": "Tomauskasz",
             "repo": "electric-control-room.wez",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         }
       ],
       "title": "Themes"
@@ -643,7 +682,8 @@
             "owner": "zsh-sage",
             "repo": "toggle_terminal.wez",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -658,7 +698,8 @@
             "owner": "ChrisGVE",
             "repo": "listeners.wezterm",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -673,7 +714,8 @@
             "owner": "ChrisGVE",
             "repo": "lib.wezterm",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -688,7 +730,8 @@
             "owner": "quantonganh",
             "repo": "quickselect.wezterm",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -703,7 +746,8 @@
             "owner": "usrivastava92",
             "repo": "widgets.wez",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -718,7 +762,8 @@
             "owner": "ChrisGVE",
             "repo": "dev.wezterm",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -733,7 +778,8 @@
             "owner": "aureolebigben",
             "repo": "wezterm-cmd-sender",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -748,7 +794,8 @@
             "owner": "dfsramos",
             "repo": "wezterm-sync",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -763,7 +810,8 @@
             "owner": "sravioli",
             "repo": "lantern.wz",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -778,7 +826,8 @@
             "owner": "sravioli",
             "repo": "memo.wz",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -793,7 +842,8 @@
             "owner": "sravioli",
             "repo": "ribbon.wz",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -808,7 +858,8 @@
             "owner": "sravioli",
             "repo": "warp.wz",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -823,7 +874,8 @@
             "owner": "btrachey",
             "repo": "wezterm-replay",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -838,7 +890,8 @@
             "owner": "sravioli",
             "repo": "log.wz",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         },
         {
           "node_type": "item",
@@ -853,14 +906,15 @@
             "owner": "sravioli",
             "repo": "sigil.wz",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
         }
       ],
       "title": "Utility"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:54:33.100Z",
+    "last_updated": "2026-08-28T14:25:40.908Z",
     "original_repository_info": {
       "archived": false,
       "id": 853943536,
