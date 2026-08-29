@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1132801029,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-03-26T13:04:57Z",
+            "open_issues": 1,
             "owner": "Eric162",
             "repo": "wezterm-agent-deck",
-            "stars": 74
+            "stars": 74,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -26,12 +31,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "simple ai agent for wezterm",
+            "homepage": null,
             "id": 992756894,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-03-13T13:34:38Z",
+            "open_issues": 1,
             "owner": "Michal1993r",
             "repo": "ai-helper.wezterm",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "ai",
+              "wezterm-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -42,12 +55,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Integrates with AI providers (Anthropic Claude and OpenAI GPT) to generate and select bash commands based on natural language prompts.",
+            "homepage": null,
             "id": 1043752919,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-05-09T17:04:23Z",
+            "open_issues": 2,
             "owner": "dimao",
             "repo": "ai-commander.wezterm",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -58,12 +76,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WezTerm status bar plugin for Claude and Codex quota usage",
+            "homepage": null,
             "id": 1187860165,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-08-28T11:04:18Z",
+            "open_issues": 0,
             "owner": "M-Marbouh",
             "repo": "agent-quota.wezterm",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "ai",
+              "claude",
+              "codex",
+              "lua",
+              "wezterm",
+              "wezterm-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -74,12 +104,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WezTerm plugin that displays Claude API usage quota in the status bar",
+            "homepage": null,
             "id": 1175729121,
             "language": "Lua",
+            "license": null,
             "last_commit": "2026-06-21T05:34:32Z",
+            "open_issues": 0,
             "owner": "EdenGibson",
             "repo": "wezterm-quota-limit",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         }
@@ -96,12 +131,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Vim-like modal keybindings for your terminal! ✌️",
+            "homepage": null,
             "id": 788045678,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-05-24T17:06:45Z",
+            "open_issues": 3,
             "owner": "MLFlexer",
             "repo": "modal.wezterm",
-            "stars": 121
+            "stars": 121,
+            "topics": [
+              "keybind",
+              "keybindings",
+              "modal",
+              "plugin",
+              "vim",
+              "wezterm"
+            ]
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -112,12 +159,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Port tmux key bindings to WezTerm",
+            "homepage": null,
             "id": 721628220,
             "language": "Lua",
+            "license": null,
             "last_commit": "2025-11-03T04:49:48Z",
+            "open_issues": 2,
             "owner": "sei40kr",
             "repo": "wez-tmux",
-            "stars": 55
+            "stars": 55,
+            "topics": [
+              "wezterm",
+              "wezterm-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -128,12 +183,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A WezTerm plugin that adds a command-palette-style fuzzy picker for keybindings. Press a trigger key to search and execute any keybinding — user-defined, config, or WezTerm defaults.",
+            "homepage": null,
             "id": 1178776836,
             "language": "Lua",
+            "license": null,
             "last_commit": "2026-05-25T21:13:26Z",
+            "open_issues": 0,
             "owner": "abidibo",
             "repo": "wezterm-cmdpicker",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -144,12 +204,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WezTerm port of tmux-pain-control",
+            "homepage": null,
             "id": 721581375,
             "language": "Lua",
+            "license": null,
             "last_commit": "2023-11-21T14:59:09Z",
+            "open_issues": 0,
             "owner": "sei40kr",
             "repo": "wez-pain-control",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "wezterm",
+              "wezterm-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -160,12 +228,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A WezTerm plugin that mirrors your keystrokes to every pane in the active tab — the equivalent of tmux's synchronize-panes.",
+            "homepage": null,
             "id": 1259637515,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-07-09T22:00:46Z",
+            "open_issues": 3,
             "owner": "annie444",
             "repo": "sync-panes.wez",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "keybindings",
+              "multiplexing",
+              "wezterm",
+              "wezterm-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -176,12 +254,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎹 Vim-style key mapping and hints for WezTerm",
+            "homepage": null,
             "id": 1233289215,
             "language": "Lua",
+            "license": "GPL-2.0",
             "last_commit": "2026-05-14T13:33:37Z",
+            "open_issues": 0,
             "owner": "sravioli",
             "repo": "chord.wz",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "key-tables",
+              "keybindings",
+              "keyboard-shortcuts",
+              "keymap",
+              "lua",
+              "modal",
+              "terminal",
+              "vim",
+              "vim-keybindings",
+              "vim-style",
+              "wezterm",
+              "wezterm-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -192,12 +288,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pinned tabs for WezTerm",
+            "homepage": null,
             "id": 1030216734,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2025-08-16T13:59:41Z",
+            "open_issues": 0,
             "owner": "selectnull",
             "repo": "pinned-tabs.wezterm",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "plugin",
+              "wezterm",
+              "wezterm-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -208,12 +313,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1131659250,
             "language": "Lua",
+            "license": null,
             "last_commit": "2026-01-11T04:03:21Z",
+            "open_issues": 0,
             "owner": "KawaiiSelbst",
             "repo": "nu_utf8_hack.wez",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -224,12 +334,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1301866215,
             "language": "Lua",
+            "license": null,
             "last_commit": "2026-07-15T17:37:36Z",
+            "open_issues": 0,
             "owner": "KawaiiSelbst",
             "repo": "keys_bypass.wez",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         }
@@ -246,12 +361,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧠 Smart, seamless, directional navigation and resizing of Neovim + terminal multiplexer splits. Supports Zellij, Tmux, Wezterm, and Kitty. Think about splits in terms of \"up/down/left/right\".",
+            "homepage": null,
             "id": 471784921,
             "language": "Lua",
-            "last_commit": "2026-08-22T01:31:23Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:13:51Z",
+            "open_issues": 22,
             "owner": "mrjones2014",
             "repo": "smart-splits.nvim",
-            "stars": 1716
+            "stars": 1716,
+            "topics": [
+              "kitty",
+              "mux",
+              "neovim",
+              "neovim-plugin",
+              "nvim",
+              "split",
+              "split-pane",
+              "tmux",
+              "wezterm",
+              "window-management",
+              "window-manager",
+              "zellij"
+            ]
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -262,12 +395,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make Wezterm config overrides from inside Neovim",
+            "homepage": null,
             "id": 702321908,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-04-01T23:14:51Z",
+            "open_issues": 2,
             "owner": "winter-again",
             "repo": "wezterm-config.nvim",
-            "stars": 72
+            "stars": 72,
+            "topics": [
+              "neovim",
+              "neovim-plugin",
+              "wezterm",
+              "wezterm-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         }
@@ -284,12 +427,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple plugins for Wezterm to rotate the panes in a window",
+            "homepage": null,
             "id": 966275125,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-03-06T17:39:42Z",
+            "open_issues": 0,
             "owner": "ChrisGVE",
             "repo": "pivot_panes.wezterm",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -300,12 +448,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A WezTerm plugin for stacked pane mode - work with multiple panes but see only one at a time. It uses WezTerm's panes and zoom under the hood.",
+            "homepage": null,
             "id": 1102698901,
             "language": "Lua",
+            "license": null,
             "last_commit": "2025-11-23T23:14:17Z",
+            "open_issues": 0,
             "owner": "bad-noodles",
             "repo": "stack.wez",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         }
@@ -322,12 +475,31 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A smart wezterm workspace switcher plugin inspired by joshmedeski/t-smart-tmux-session-manager",
+            "homepage": null,
             "id": 665890995,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-05-24T17:06:13Z",
+            "open_issues": 3,
             "owner": "MLFlexer",
             "repo": "smart_workspace_switcher.wezterm",
-            "stars": 205
+            "stars": 205,
+            "topics": [
+              "plugin",
+              "sesh",
+              "session",
+              "session-management",
+              "session-manager",
+              "wezterm",
+              "wezterm-config",
+              "wezterm-plugin",
+              "wezterm-session",
+              "workspace",
+              "workspace-management",
+              "workspace-manager",
+              "workspaces"
+            ]
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -338,12 +510,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A sessionizer for wezterm",
+            "homepage": null,
             "id": 850469189,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2025-07-05T23:40:07Z",
+            "open_issues": 1,
             "owner": "mikkasendke",
             "repo": "sessionizer.wezterm",
-            "stars": 96
+            "stars": 96,
+            "topics": [
+              "lua",
+              "sessionizer",
+              "wezterm",
+              "wezterm-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -354,12 +536,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quckly search and attach to wezterm domains with a click of a keybind",
+            "homepage": null,
             "id": 854167313,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-02-01T17:39:16Z",
+            "open_issues": 4,
             "owner": "DavidRR-F",
             "repo": "quick_domains.wezterm",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "domains",
+              "plugin",
+              "shell",
+              "ssh-config",
+              "wez",
+              "wezterm",
+              "wezterm-domains",
+              "wezterm-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -370,12 +566,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A WezTerm sessions manager plugin",
+            "homepage": null,
             "id": 924003465,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-05-25T21:12:36Z",
+            "open_issues": 0,
             "owner": "abidibo",
             "repo": "wezterm-sessions",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -386,12 +587,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Like \"tmux-sessionizer\", but for Wezterm workspaces",
+            "homepage": null,
             "id": 977620249,
             "language": "Lua",
+            "license": null,
             "last_commit": "2026-03-03T05:47:38Z",
+            "open_issues": 0,
             "owner": "vieitesss",
             "repo": "workspacesionizer.wezterm",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -402,12 +608,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1131701648,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-05-17T08:53:30Z",
+            "open_issues": 0,
             "owner": "isseii10",
             "repo": "workspace-picker.wezterm",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -418,12 +629,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Powerful workspace manager for Wezterm with smart switching, keyboard navigation, and zoxide integration",
+            "homepage": null,
             "id": 1147055443,
             "language": "Lua",
+            "license": null,
             "last_commit": "2026-04-24T19:41:43Z",
+            "open_issues": 5,
             "owner": "ryanmsnyder",
             "repo": "workspace-manager.wezterm",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "terminal",
+              "wezterm",
+              "wezterm-plugin",
+              "zoxide"
+            ]
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -434,12 +655,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WezTerm plugin to manage and spawn workspace configurations",
+            "homepage": null,
             "id": 1092328286,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-03-02T16:42:18Z",
+            "open_issues": 0,
             "owner": "JuanraCM",
             "repo": "wsinit.wezterm",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -450,12 +676,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A plugin to restore windows, tabs and panes for Wezterm inspired by tmux-resurrect",
+            "homepage": null,
             "id": 1280921589,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-07-14T01:36:03Z",
+            "open_issues": 2,
             "owner": "StephenGemin",
             "repo": "resurrect.wezterm",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "layout",
+              "panes",
+              "restore",
+              "resurrection",
+              "save",
+              "session",
+              "state",
+              "tabs",
+              "tmux-resurrect",
+              "wezterm",
+              "wezterm-plugin",
+              "windows",
+              "workspace"
+            ]
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -466,12 +711,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A WezTerm plugin to save and load named tab sets.",
+            "homepage": null,
             "id": 1116544903,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-05-16T20:01:36Z",
+            "open_issues": 0,
             "owner": "srackham",
             "repo": "tabsets.wezterm",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         }
@@ -488,12 +738,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A versatile and easy to use retro tab bar plugin for the WezTerm terminal emulator created with the lualine.nvim configuration format",
+            "homepage": null,
             "id": 846297240,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-07-23T21:52:06Z",
+            "open_issues": 2,
             "owner": "michaelbrusegard",
             "repo": "tabline.wez",
-            "stars": 304
+            "stars": 305,
+            "topics": [
+              "lua",
+              "lualine",
+              "statusline",
+              "tabline",
+              "tabs",
+              "wez",
+              "wezterm",
+              "wezterm-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -504,12 +768,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A wezterm tab bar with batteries included",
+            "homepage": null,
             "id": 797614886,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-04-15T14:27:06Z",
+            "open_issues": 1,
             "owner": "adriankarlen",
             "repo": "bar.wezterm",
-            "stars": 238
+            "stars": 238,
+            "topics": [
+              "multiplexing",
+              "rice",
+              "ricing",
+              "shell",
+              "terminal",
+              "unix",
+              "wezterm",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -520,12 +798,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WezTerm to configure tabs look and feel",
+            "homepage": null,
             "id": 837885669,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-08-14T19:21:39Z",
+            "open_issues": 1,
             "owner": "yriveiro",
             "repo": "wezterm-tabs",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "plugin",
+              "wezterm",
+              "wezterm-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -536,12 +823,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wezterm plugin to setup status",
+            "homepage": null,
             "id": 828232494,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-03-23T14:07:11Z",
+            "open_issues": 0,
             "owner": "yriveiro",
             "repo": "wezterm-status",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "plugin",
+              "wezterm",
+              "wezterm-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -552,12 +848,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WezTerm plugin: file-based attention markers turn tabs into a notification surface for AI agents, builds, and scripts",
+            "homepage": null,
             "id": 1186556139,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-08-25T02:34:22Z",
+            "open_issues": 0,
             "owner": "pro-vi",
             "repo": "wezterm-attention",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -568,12 +869,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WezTerm plugin for battery stats",
+            "homepage": null,
             "id": 865963985,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2024-10-07T17:51:50Z",
+            "open_issues": 0,
             "owner": "rootiest",
             "repo": "battery.wez",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         }
@@ -590,12 +896,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Soho vibes for WezTerm",
+            "homepage": null,
             "id": 475219144,
             "language": "Lua",
+            "license": null,
             "last_commit": "2024-05-11T16:40:59Z",
+            "open_issues": 0,
             "owner": "neapsix",
             "repo": "wezterm",
-            "stars": 81
+            "stars": 81,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -606,12 +917,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A plugin for WezTerm that allows you to easily switch between all built-in themes using keyboard shortcuts.",
+            "homepage": null,
             "id": 953292721,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2025-03-23T07:38:17Z",
+            "open_issues": 1,
             "owner": "koh-sh",
             "repo": "wezterm-theme-rotator",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -622,12 +938,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎨 kanagawa.nvim color schemes ported to Wezterm",
+            "homepage": null,
             "id": 1186688414,
             "language": "Lua",
+            "license": "GPL-2.0",
             "last_commit": "2026-05-14T13:46:09Z",
+            "open_issues": 0,
             "owner": "sravioli",
             "repo": "kanagawa.wz",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "colorscheme",
+              "kanagawa",
+              "lua",
+              "theme",
+              "theming",
+              "wezterm",
+              "wezterm-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -638,12 +967,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Project-aware window tinting for WezTerm that colors tabs and window chrome by the active pane’s git root.",
+            "homepage": null,
             "id": 1243122475,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-06-29T04:17:16Z",
+            "open_issues": 0,
             "owner": "willytop8",
             "repo": "Wezterm-Window-Tint",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "lua",
+              "terminal",
+              "terminal-th",
+              "wezterm",
+              "wezterm-colorscheme",
+              "wezterm-config"
+            ]
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -654,12 +995,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Animated electric control-room theme for WezTerm",
+            "homepage": null,
             "id": 1295048934,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-07-16T21:03:03Z",
+            "open_issues": 0,
             "owner": "Tomauskasz",
             "repo": "electric-control-room.wez",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "apng",
+              "lua",
+              "terminal-theme",
+              "wezterm",
+              "wezterm-plugin",
+              "wezterm-theme"
+            ]
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         }
@@ -676,12 +1029,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Toggle terminal plugin for WezTerm",
+            "homepage": null,
             "id": 964973297,
             "language": "Lua",
+            "license": null,
             "last_commit": "2025-10-22T12:47:05Z",
+            "open_issues": 0,
             "owner": "zsh-sage",
             "repo": "toggle_terminal.wez",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -692,12 +1050,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wezterm plugin for simple event listeners setup",
+            "homepage": null,
             "id": 955522881,
             "language": "Lua",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-26T08:55:52Z",
+            "open_issues": 0,
             "owner": "ChrisGVE",
             "repo": "listeners.wezterm",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -708,12 +1071,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple but useful plugin development library",
+            "homepage": null,
             "id": 960555907,
             "language": "Lua",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-26T08:56:13Z",
+            "open_issues": 0,
             "owner": "ChrisGVE",
             "repo": "lib.wezterm",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -724,12 +1092,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A WezTerm plugin to jump to the build error by opening them in Helix.",
+            "homepage": "https://quantonganh.com/2023/07/21/jump-to-build-error-helix.md",
             "id": 1030764977,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2025-12-13T03:36:24Z",
+            "open_issues": 0,
             "owner": "quantonganh",
             "repo": "quickselect.wezterm",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -740,12 +1113,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform status bar widgets for WezTerm — CPU, RAM, battery, network, disk",
+            "homepage": null,
             "id": 1264863217,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-06-29T18:43:27Z",
+            "open_issues": 0,
             "owner": "usrivastava92",
             "repo": "widgets.wez",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "battery",
+              "cpu",
+              "cross-platform",
+              "lua",
+              "network",
+              "ram",
+              "status-bar",
+              "wezterm",
+              "wezterm-plugin",
+              "widgets"
+            ]
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -756,12 +1145,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple wezterm plugin to determine its location within a dev environment or in deployment",
+            "homepage": null,
             "id": 955556656,
             "language": "Lua",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-26T08:39:23Z",
+            "open_issues": 1,
             "owner": "ChrisGVE",
             "repo": "dev.wezterm",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -772,12 +1166,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple plugin to send command to multiple pane in wezterm",
+            "homepage": null,
             "id": 848163226,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-04-19T10:53:23Z",
+            "open_issues": 0,
             "owner": "aureolebigben",
             "repo": "wezterm-cmd-sender",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "wezterm",
+              "wezterm-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -788,12 +1190,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WezTerm plugin to sync your config across machines via GitHub Gist",
+            "homepage": null,
             "id": 1235946918,
             "language": "Lua",
+            "license": null,
             "last_commit": "2026-05-11T20:30:16Z",
+            "open_issues": 0,
             "owner": "dfsramos",
             "repo": "wezterm-sync",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -804,12 +1211,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏮 Configurable selection menus that light up WezTerm.",
+            "homepage": null,
             "id": 1198806635,
             "language": "Lua",
+            "license": "GPL-2.0",
             "last_commit": "2026-05-14T13:46:36Z",
+            "open_issues": 0,
             "owner": "sravioli",
             "repo": "lantern.wz",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "configuration",
+              "lua",
+              "picker",
+              "productivity",
+              "selector",
+              "terminal",
+              "wezterm",
+              "wezterm-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -820,12 +1241,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧠 memoization, caching, and persistent state management plugin for WezTerm",
+            "homepage": null,
             "id": 1186343024,
             "language": "Lua",
+            "license": "GPL-2.0",
             "last_commit": "2026-05-14T13:49:28Z",
+            "open_issues": 0,
             "owner": "sravioli",
             "repo": "memo.wz",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "cache",
+              "lua",
+              "memoization",
+              "plugin",
+              "state-management",
+              "wezterm",
+              "wezterm-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -836,12 +1270,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎀 Weave styled text segments into clean WezTerm UI.",
+            "homepage": null,
             "id": 1233183108,
             "language": "Lua",
+            "license": "GPL-2.0",
             "last_commit": "2026-05-14T13:55:45Z",
+            "open_issues": 0,
             "owner": "sravioli",
             "repo": "ribbon.wz",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "formatted-text",
+              "lua",
+              "lua-plugin",
+              "status-bar",
+              "terminal",
+              "text-formatting",
+              "wezterm",
+              "wezterm-config",
+              "wezterm-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -852,12 +1301,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 Warp-speed utilities for WezTerm",
+            "homepage": null,
             "id": 1189369925,
             "language": "Lua",
+            "license": "GPL-2.0",
             "last_commit": "2026-05-14T13:58:53Z",
+            "open_issues": 0,
             "owner": "sravioli",
             "repo": "warp.wz",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "lua",
+              "luajit",
+              "path-manipulation",
+              "string-manipulation",
+              "table-utils",
+              "utility-library",
+              "wezterm",
+              "wezterm-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -868,12 +1331,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Capture commands from output and insert them into the next prompt",
+            "homepage": null,
             "id": 1012128593,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2025-09-18T12:17:31Z",
+            "open_issues": 0,
             "owner": "btrachey",
             "repo": "wezterm-replay",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -884,12 +1352,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🪵 lightweight, pluggable logging library for WezTerm",
+            "homepage": null,
             "id": 1185680647,
             "language": "Lua",
+            "license": "GPL-2.0",
             "last_commit": "2026-05-14T13:48:49Z",
+            "open_issues": 0,
             "owner": "sravioli",
             "repo": "log.wz",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "logger",
+              "logging",
+              "lua",
+              "plugin",
+              "wezterm",
+              "wezterm-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -900,12 +1380,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔮 Icons and identity colors for WezTerm processes, tools, and UI labels.",
+            "homepage": null,
             "id": 1233325472,
             "language": "Lua",
+            "license": "GPL-2.0",
             "last_commit": "2026-05-14T13:58:04Z",
+            "open_issues": 0,
             "owner": "sravioli",
             "repo": "sigil.wz",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "devicons",
+              "icons",
+              "lua",
+              "nerdfonts",
+              "statusline",
+              "tabline",
+              "terminal",
+              "wezterm",
+              "wezterm-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         }
@@ -914,15 +1409,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T14:25:40.908Z",
+    "last_updated": "2026-08-29T04:37:46.753Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Collections of awesome WezTerm plugins.",
+      "homepage": null,
       "id": 853943536,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-21T07:55:21Z",
+      "open_issues": 0,
       "owner": "michaelbrusegard",
       "repo": "awesome-wezterm",
-      "stars": 737
+      "stars": 737,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "wezterm",
+        "wezterm-config",
+        "wezterm-lua",
+        "wezterm-plugin"
+      ]
     },
     "original_repository_sha": "6ed4e910fcf8f6968a65df5ce01a3dfd7f8bb438",
     "enhanced_repository": "enhansome/enhansome-wezterm",
