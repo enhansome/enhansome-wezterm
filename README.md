@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/wez/wezterm/main/assets/icon/wezterm-icon.svg" align="right" width="144" />
 
-> Collections of awesome WezTerm plugins. [Plugin Guide](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md) ⭐ 28,676 | 🐛 1,831 | 🌐 Rust | 📅 2026-08-31. Found something cool? Please [contribute](CONTRIBUTING.md)!
+> Collections of awesome WezTerm plugins. [Plugin Guide](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md) ⭐ 28,703 | 🐛 1,833 | 🌐 Rust | 📅 2026-08-31. Found something cool? Please [contribute](CONTRIBUTING.md)!
 
 [WezTerm](https://wezfurlong.org/wezterm/) is a powerful cross-platform terminal emulator and multiplexer written by [@wez](https://github.com/wez) and implemented in [Rust](https://www.rust-lang.org).
 
@@ -50,7 +50,7 @@ To enhance your WezTerm configuration experience:
 
 ## Neovim
 
-* [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) ⭐ 1,718 | 🐛 23 | 🌐 Lua | 📅 2026-08-29 - Provides an addon for seamless pane navigation between Neovim and the WezTerm MUX.
+* [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) ⭐ 1,718 | 🐛 23 | 🌐 Lua | 📅 2026-09-01 - Provides an addon for seamless pane navigation between Neovim and the WezTerm MUX.
 * [winter-again/wezterm-config.nvim](https://github.com/winter-again/wezterm-config.nvim) ⭐ 72 | 🐛 2 | 🌐 Lua | 📅 2026-04-01 - Interact with the WezTerm configuration directly from Neovim.
 
 ## Panes
@@ -73,16 +73,16 @@ To enhance your WezTerm configuration experience:
 
 ## Tab bar
 
-* [michaelbrusegard/tabline.wez](https://github.com/michaelbrusegard/tabline.wez) ⭐ 307 | 🐛 3 | 🌐 Lua | 📅 2026-07-23 - A versatile and easy to use retro tab bar with the `lualine.nvim` configuration format.
+* [michaelbrusegard/tabline.wez](https://github.com/michaelbrusegard/tabline.wez) ⭐ 308 | 🐛 3 | 🌐 Lua | 📅 2026-07-23 - A versatile and easy to use retro tab bar with the `lualine.nvim` configuration format.
 * [adriankarlen/bar.wezterm](https://github.com/adriankarlen/bar.wezterm) ⭐ 239 | 🐛 1 | 🌐 Lua | 📅 2026-04-15 - A configurable tab bar with batteries included.
 * [yriveiro/wezterm-tabs](https://github.com/yriveiro/wezterm-tabs) ⭐ 30 | 🐛 1 | 🌐 Lua | 📅 2026-08-14 - Configurable tabs for the retro tab bar.
 * [yriveiro/wezterm-status](https://github.com/yriveiro/wezterm-status) ⭐ 25 | 🐛 0 | 🌐 Lua | 📅 2026-03-23 - Configurable status for the retro tab bar.
-* [pro-vi/wezterm-attention](https://github.com/pro-vi/wezterm-attention) ⭐ 19 | 🐛 0 | 🌐 Lua | 📅 2026-08-25 - Turns your tab bar into a notification system with colored tab indicators.
+* [pro-vi/wezterm-attention](https://github.com/pro-vi/wezterm-attention) ⭐ 20 | 🐛 0 | 🌐 Lua | 📅 2026-08-25 - Turns your tab bar into a notification system with colored tab indicators.
 * [rootiest/battery.wez](https://github.com/rootiest/battery.wez) ⭐ 10 | 🐛 0 | 🌐 Lua | 📅 2024-10-07 - A colorful and fancy battery component for the retro tab bar.
 
 ## Themes
 
-* [neapsix/wezterm](https://github.com/neapsix/wezterm) ⭐ 81 | 🐛 0 | 🌐 Lua | 📅 2024-05-11 - Rosé Pine theme, all natural pine, faux fur and a bit of soho vibes.
+* [neapsix/wezterm](https://github.com/neapsix/wezterm) ⭐ 82 | 🐛 0 | 🌐 Lua | 📅 2024-05-11 - Rosé Pine theme, all natural pine, faux fur and a bit of soho vibes.
 * [koh-sh/wezterm-theme-rotator](https://github.com/koh-sh/wezterm-theme-rotator) ⭐ 9 | 🐛 1 | 🌐 Lua | 📅 2025-03-23 - Cycle through built-in themes using keyboard shortcuts.
 * [sravioli/kanagawa.wz](https://github.com/sravioli/kanagawa.wz) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2026-05-14 - Kanagawa.nvim color schemes with Wave, Dragon, and Lotus variants.
 * [willytop8/Wezterm-Window-Tint](https://github.com/willytop8/Wezterm-Window-Tint) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2026-06-29 - Color the window frame, tab bar, and status badge by the active pane's Git root.
@@ -97,8 +97,8 @@ To enhance your WezTerm configuration experience:
 * [usrivastava92/widgets.wez](https://github.com/usrivastava92/widgets.wez) ⭐ 8 | 🐛 0 | 🌐 Lua | 📅 2026-06-29 - Cross-platform status bar widgets for CPU, RAM, battery, network, and disk on macOS, Linux, and Windows.
 * [ChrisGVE/dev.wezterm](https://github.com/ChrisGVE/dev.wezterm) ⭐ 7 | 🐛 1 | 🌐 Lua | 📅 2026-05-26 - Location resolver for development and deployment of a plugin.
 * [aureolebigben/wezterm-cmd-sender](https://github.com/aureolebigben/wezterm-cmd-sender) ⭐ 6 | 🐛 0 | 🌐 Lua | 📅 2026-04-19 - Send commands to multiple panes.
+* [sravioli/lantern.wz](https://github.com/sravioli/lantern.wz) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2026-05-14 - Selector framework for colorschemes, fonts, GPU adapters, window appearance, and custom config presets.
 * [dfsramos/wezterm-sync](https://github.com/dfsramos/wezterm-sync) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2026-05-11 - Sync your config across machines via a private GitHub Gist, with zero external dependencies.
-* [sravioli/lantern.wz](https://github.com/sravioli/lantern.wz) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2026-05-14 - Selector framework for colorschemes, fonts, GPU adapters, window appearance, and custom config presets.
 * [sravioli/memo.wz](https://github.com/sravioli/memo.wz) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2026-05-14 - Memoization, caching, and persistent state management.
 * [sravioli/ribbon.wz](https://github.com/sravioli/ribbon.wz) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2026-05-14 - Builds styled text segments for status bars, tab titles, and selector previews.
 * [sravioli/warp.wz](https://github.com/sravioli/warp.wz) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2026-05-14 - General-purpose utility library with string, table, list, path, and filesystem helpers.
@@ -109,4 +109,4 @@ To enhance your WezTerm configuration experience:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._

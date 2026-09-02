@@ -366,7 +366,7 @@
             "id": 471784921,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-08-29T00:13:51Z",
+            "last_commit": "2026-09-01T15:36:24Z",
             "open_issues": 23,
             "owner": "mrjones2014",
             "repo": "smart-splits.nvim",
@@ -484,7 +484,7 @@
             "open_issues": 3,
             "owner": "MLFlexer",
             "repo": "smart_workspace_switcher.wezterm",
-            "stars": 205,
+            "stars": 204,
             "topics": [
               "plugin",
               "sesh",
@@ -747,7 +747,7 @@
             "open_issues": 3,
             "owner": "michaelbrusegard",
             "repo": "tabline.wez",
-            "stars": 307,
+            "stars": 308,
             "topics": [
               "lua",
               "lualine",
@@ -857,7 +857,7 @@
             "open_issues": 0,
             "owner": "pro-vi",
             "repo": "wezterm-attention",
-            "stars": 19,
+            "stars": 20,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
@@ -905,7 +905,7 @@
             "open_issues": 0,
             "owner": "neapsix",
             "repo": "wezterm",
-            "stars": 81,
+            "stars": 82,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
@@ -1185,6 +1185,36 @@
         },
         {
           "node_type": "item",
+          "title": "sravioli/lantern.wz",
+          "description": "Selector framework for colorschemes, fonts, GPU adapters, window appearance, and custom config presets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🏮 Configurable selection menus that light up WezTerm.",
+            "homepage": null,
+            "id": 1198806635,
+            "language": "Lua",
+            "license": "GPL-2.0",
+            "last_commit": "2026-05-14T13:46:36Z",
+            "open_issues": 0,
+            "owner": "sravioli",
+            "repo": "lantern.wz",
+            "stars": 3,
+            "topics": [
+              "configuration",
+              "lua",
+              "picker",
+              "productivity",
+              "selector",
+              "terminal",
+              "wezterm",
+              "wezterm-plugin"
+            ]
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
+        },
+        {
+          "node_type": "item",
           "title": "dfsramos/wezterm-sync",
           "description": "Sync your config across machines via a private GitHub Gist, with zero external dependencies.",
           "children": [],
@@ -1201,36 +1231,6 @@
             "repo": "wezterm-sync",
             "stars": 2,
             "topics": []
-          },
-          "first_seen": "2026-08-28T14:25:40.908Z"
-        },
-        {
-          "node_type": "item",
-          "title": "sravioli/lantern.wz",
-          "description": "Selector framework for colorschemes, fonts, GPU adapters, window appearance, and custom config presets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🏮 Configurable selection menus that light up WezTerm.",
-            "homepage": null,
-            "id": 1198806635,
-            "language": "Lua",
-            "license": "GPL-2.0",
-            "last_commit": "2026-05-14T13:46:36Z",
-            "open_issues": 0,
-            "owner": "sravioli",
-            "repo": "lantern.wz",
-            "stars": 2,
-            "topics": [
-              "configuration",
-              "lua",
-              "picker",
-              "productivity",
-              "selector",
-              "terminal",
-              "wezterm",
-              "wezterm-plugin"
-            ]
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -1409,7 +1409,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T07:52:48.397Z",
+    "last_updated": "2026-09-02T07:10:23.814Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collections of awesome WezTerm plugins.",
@@ -1421,7 +1421,7 @@
       "open_issues": 0,
       "owner": "michaelbrusegard",
       "repo": "awesome-wezterm",
-      "stars": 737,
+      "stars": 738,
       "topics": [
         "awesome",
         "awesome-list",
