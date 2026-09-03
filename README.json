@@ -366,11 +366,11 @@
             "id": 471784921,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-09-01T15:36:24Z",
+            "last_commit": "2026-09-02T12:27:22Z",
             "open_issues": 23,
             "owner": "mrjones2014",
             "repo": "smart-splits.nvim",
-            "stars": 1718,
+            "stars": 1717,
             "topics": [
               "kitty",
               "mux",
@@ -1066,6 +1066,38 @@
         },
         {
           "node_type": "item",
+          "title": "usrivastava92/widgets.wez",
+          "description": "Cross-platform status bar widgets for CPU, RAM, battery, network, and disk on macOS, Linux, and Windows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Cross-platform status bar widgets for WezTerm — CPU, RAM, battery, network, disk",
+            "homepage": null,
+            "id": 1264863217,
+            "language": "Lua",
+            "license": "MIT",
+            "last_commit": "2026-06-29T18:43:27Z",
+            "open_issues": 0,
+            "owner": "usrivastava92",
+            "repo": "widgets.wez",
+            "stars": 9,
+            "topics": [
+              "battery",
+              "cpu",
+              "cross-platform",
+              "lua",
+              "network",
+              "ram",
+              "status-bar",
+              "wezterm",
+              "wezterm-plugin",
+              "widgets"
+            ]
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
+        },
+        {
+          "node_type": "item",
           "title": "ChrisGVE/lib.wezterm",
           "description": "A library of common utility functions for plugin developers.",
           "children": [],
@@ -1103,38 +1135,6 @@
             "repo": "quickselect.wezterm",
             "stars": 8,
             "topics": []
-          },
-          "first_seen": "2026-08-28T14:25:40.908Z"
-        },
-        {
-          "node_type": "item",
-          "title": "usrivastava92/widgets.wez",
-          "description": "Cross-platform status bar widgets for CPU, RAM, battery, network, and disk on macOS, Linux, and Windows.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Cross-platform status bar widgets for WezTerm — CPU, RAM, battery, network, disk",
-            "homepage": null,
-            "id": 1264863217,
-            "language": "Lua",
-            "license": "MIT",
-            "last_commit": "2026-06-29T18:43:27Z",
-            "open_issues": 0,
-            "owner": "usrivastava92",
-            "repo": "widgets.wez",
-            "stars": 8,
-            "topics": [
-              "battery",
-              "cpu",
-              "cross-platform",
-              "lua",
-              "network",
-              "ram",
-              "status-bar",
-              "wezterm",
-              "wezterm-plugin",
-              "widgets"
-            ]
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -1409,7 +1409,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T07:10:23.814Z",
+    "last_updated": "2026-09-03T07:14:57.590Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collections of awesome WezTerm plugins.",
@@ -1421,7 +1421,7 @@
       "open_issues": 0,
       "owner": "michaelbrusegard",
       "repo": "awesome-wezterm",
-      "stars": 738,
+      "stars": 739,
       "topics": [
         "awesome",
         "awesome-list",
