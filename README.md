@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/wez/wezterm/main/assets/icon/wezterm-icon.svg" align="right" width="144" />
 
-> Collections of awesome WezTerm plugins. [Plugin Guide](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md) ⭐ 28,721 | 🐛 1,833 | 🌐 Rust | 📅 2026-08-31. Found something cool? Please [contribute](CONTRIBUTING.md)!
+> Collections of awesome WezTerm plugins. [Plugin Guide](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md) ⭐ 28,742 | 🐛 1,836 | 🌐 Rust | 📅 2026-08-31. Found something cool? Please [contribute](CONTRIBUTING.md)!
 
 [WezTerm](https://wezfurlong.org/wezterm/) is a powerful cross-platform terminal emulator and multiplexer written by [@wez](https://github.com/wez) and implemented in [Rust](https://www.rust-lang.org).
 
@@ -50,7 +50,7 @@ To enhance your WezTerm configuration experience:
 
 ## Neovim
 
-* [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) ⭐ 1,717 | 🐛 23 | 🌐 Lua | 📅 2026-09-02 - Provides an addon for seamless pane navigation between Neovim and the WezTerm MUX.
+* [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) ⭐ 1,718 | 🐛 23 | 🌐 Lua | 📅 2026-09-03 - Provides an addon for seamless pane navigation between Neovim and the WezTerm MUX.
 * [winter-again/wezterm-config.nvim](https://github.com/winter-again/wezterm-config.nvim) ⭐ 72 | 🐛 2 | 🌐 Lua | 📅 2026-04-01 - Interact with the WezTerm configuration directly from Neovim.
 
 ## Panes
@@ -61,7 +61,7 @@ To enhance your WezTerm configuration experience:
 ## Session
 
 * [MLFlexer/smart\_workspace\_switcher.wezterm](https://github.com/MLFlexer/smart_workspace_switcher.wezterm) ⚠️ Archived - Switch between workspaces with fuzzy finding and `zoxide`.
-* [mikkasendke/sessionizer.wezterm](https://github.com/mikkasendke/sessionizer.wezterm) ⭐ 96 | 🐛 1 | 🌐 Lua | 📅 2025-07-05 - Opening Git repositories as their own WezTerm workspaces using `fd`.
+* [mikkasendke/sessionizer.wezterm](https://github.com/mikkasendke/sessionizer.wezterm) ⭐ 95 | 🐛 1 | 🌐 Lua | 📅 2025-07-05 - Opening Git repositories as their own WezTerm workspaces using `fd`.
 * [DavidRR-F/quick\_domains.wezterm](https://github.com/DavidRR-F/quick_domains.wezterm) ⭐ 28 | 🐛 4 | 🌐 Lua | 📅 2026-02-01 - Faster way to search and attach to (SSH) domains.
 * [abidibo/wezterm-sessions](https://github.com/abidibo/wezterm-sessions) ⭐ 27 | 🐛 0 | 🌐 Lua | 📅 2026-05-25 - Save and restore sessions.
 * [vieitesss/workspacesionizer.wezterm](https://github.com/vieitesss/workspacesionizer.wezterm) ⭐ 17 | 🐛 0 | 🌐 Lua | 📅 2026-03-03 - Blazingly fast workspace chooser inspired by `tmux-sessionizer`.
@@ -77,12 +77,12 @@ To enhance your WezTerm configuration experience:
 * [adriankarlen/bar.wezterm](https://github.com/adriankarlen/bar.wezterm) ⭐ 239 | 🐛 1 | 🌐 Lua | 📅 2026-04-15 - A configurable tab bar with batteries included.
 * [yriveiro/wezterm-tabs](https://github.com/yriveiro/wezterm-tabs) ⭐ 30 | 🐛 1 | 🌐 Lua | 📅 2026-08-14 - Configurable tabs for the retro tab bar.
 * [yriveiro/wezterm-status](https://github.com/yriveiro/wezterm-status) ⭐ 25 | 🐛 0 | 🌐 Lua | 📅 2026-03-23 - Configurable status for the retro tab bar.
-* [pro-vi/wezterm-attention](https://github.com/pro-vi/wezterm-attention) ⭐ 20 | 🐛 0 | 🌐 Lua | 📅 2026-08-25 - Turns your tab bar into a notification system with colored tab indicators.
+* [pro-vi/wezterm-attention](https://github.com/pro-vi/wezterm-attention) ⭐ 20 | 🐛 0 | 🌐 Lua | 📅 2026-09-03 - Turns your tab bar into a notification system with colored tab indicators.
 * [rootiest/battery.wez](https://github.com/rootiest/battery.wez) ⭐ 10 | 🐛 0 | 🌐 Lua | 📅 2024-10-07 - A colorful and fancy battery component for the retro tab bar.
 
 ## Themes
 
-* [neapsix/wezterm](https://github.com/neapsix/wezterm) ⭐ 82 | 🐛 0 | 🌐 Lua | 📅 2024-05-11 - Rosé Pine theme, all natural pine, faux fur and a bit of soho vibes.
+* [neapsix/wezterm](https://github.com/neapsix/wezterm) ⭐ 83 | 🐛 0 | 🌐 Lua | 📅 2024-05-11 - Rosé Pine theme, all natural pine, faux fur and a bit of soho vibes.
 * [koh-sh/wezterm-theme-rotator](https://github.com/koh-sh/wezterm-theme-rotator) ⭐ 9 | 🐛 1 | 🌐 Lua | 📅 2025-03-23 - Cycle through built-in themes using keyboard shortcuts.
 * [sravioli/kanagawa.wz](https://github.com/sravioli/kanagawa.wz) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2026-05-14 - Kanagawa.nvim color schemes with Wave, Dragon, and Lotus variants.
 * [willytop8/Wezterm-Window-Tint](https://github.com/willytop8/Wezterm-Window-Tint) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2026-06-29 - Color the window frame, tab bar, and status badge by the active pane's Git root.
@@ -109,4 +109,4 @@ To enhance your WezTerm configuration experience:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._

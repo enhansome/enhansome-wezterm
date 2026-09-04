@@ -366,11 +366,11 @@
             "id": 471784921,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-09-02T12:27:22Z",
+            "last_commit": "2026-09-03T18:10:45Z",
             "open_issues": 23,
             "owner": "mrjones2014",
             "repo": "smart-splits.nvim",
-            "stars": 1717,
+            "stars": 1718,
             "topics": [
               "kitty",
               "mux",
@@ -519,7 +519,7 @@
             "open_issues": 1,
             "owner": "mikkasendke",
             "repo": "sessionizer.wezterm",
-            "stars": 96,
+            "stars": 95,
             "topics": [
               "lua",
               "sessionizer",
@@ -853,7 +853,7 @@
             "id": 1186556139,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-08-25T02:34:22Z",
+            "last_commit": "2026-09-03T18:45:25Z",
             "open_issues": 0,
             "owner": "pro-vi",
             "repo": "wezterm-attention",
@@ -905,7 +905,7 @@
             "open_issues": 0,
             "owner": "neapsix",
             "repo": "wezterm",
-            "stars": 82,
+            "stars": 83,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
@@ -1409,7 +1409,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T07:14:57.590Z",
+    "last_updated": "2026-09-04T07:18:00.532Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collections of awesome WezTerm plugins.",
@@ -1421,7 +1421,7 @@
       "open_issues": 0,
       "owner": "michaelbrusegard",
       "repo": "awesome-wezterm",
-      "stars": 739,
+      "stars": 738,
       "topics": [
         "awesome",
         "awesome-list",
