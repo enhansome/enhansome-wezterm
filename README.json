@@ -367,7 +367,7 @@
             "language": "Lua",
             "license": "MIT",
             "last_commit": "2026-09-08T00:03:23Z",
-            "open_issues": 5,
+            "open_issues": 4,
             "owner": "smart-splits-nvim",
             "repo": "smart-splits.nvim",
             "stars": 1719,
@@ -773,8 +773,8 @@
             "id": 797614886,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-04-15T14:27:06Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-10T19:57:57Z",
+            "open_issues": 1,
             "owner": "adriankarlen",
             "repo": "bar.wezterm",
             "stars": 241,
@@ -953,7 +953,7 @@
             "open_issues": 0,
             "owner": "sravioli",
             "repo": "kanagawa.wz",
-            "stars": 7,
+            "stars": 8,
             "topics": [
               "colorscheme",
               "kanagawa",
@@ -1221,6 +1221,27 @@
         },
         {
           "node_type": "item",
+          "title": "dfsramos/wezterm-sync",
+          "description": "Sync your config across machines via a private GitHub Gist, with zero external dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "WezTerm plugin to sync your config across machines via GitHub Gist",
+            "homepage": null,
+            "id": 1235946918,
+            "language": "Lua",
+            "license": null,
+            "last_commit": "2026-05-11T20:30:16Z",
+            "open_issues": 0,
+            "owner": "dfsramos",
+            "repo": "wezterm-sync",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
+        },
+        {
+          "node_type": "item",
           "title": "sravioli/warp.wz",
           "description": "General-purpose utility library with string, table, list, path, and filesystem helpers.",
           "children": [],
@@ -1246,27 +1267,6 @@
               "wezterm",
               "wezterm-plugin"
             ]
-          },
-          "first_seen": "2026-08-28T14:25:40.908Z"
-        },
-        {
-          "node_type": "item",
-          "title": "dfsramos/wezterm-sync",
-          "description": "Sync your config across machines via a private GitHub Gist, with zero external dependencies.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "WezTerm plugin to sync your config across machines via GitHub Gist",
-            "homepage": null,
-            "id": 1235946918,
-            "language": "Lua",
-            "license": null,
-            "last_commit": "2026-05-11T20:30:16Z",
-            "open_issues": 0,
-            "owner": "dfsramos",
-            "repo": "wezterm-sync",
-            "stars": 2,
-            "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -1415,7 +1415,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T07:23:16.069Z",
+    "last_updated": "2026-09-11T07:21:07.052Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collections of awesome WezTerm plugins.",
@@ -1427,7 +1427,7 @@
       "open_issues": 0,
       "owner": "michaelbrusegard",
       "repo": "awesome-wezterm",
-      "stars": 743,
+      "stars": 745,
       "topics": [
         "awesome",
         "awesome-list",
