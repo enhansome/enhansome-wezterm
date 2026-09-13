@@ -366,7 +366,7 @@
             "id": 471784921,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-09-11T22:59:18Z",
+            "last_commit": "2026-09-12T22:41:56Z",
             "open_issues": 2,
             "owner": "smart-splits-nvim",
             "repo": "smart-splits.nvim",
@@ -853,7 +853,7 @@
             "id": 1186556139,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-09-09T23:07:48Z",
+            "last_commit": "2026-09-13T00:50:08Z",
             "open_issues": 0,
             "owner": "pro-vi",
             "repo": "wezterm-attention",
@@ -1415,7 +1415,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T07:13:39.402Z",
+    "last_updated": "2026-09-13T07:31:40.360Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collections of awesome WezTerm plugins.",
