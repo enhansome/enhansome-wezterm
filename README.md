@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/wez/wezterm/main/assets/icon/wezterm-icon.svg" align="right" width="144" />
 
-> Collections of awesome WezTerm plugins. [Plugin Guide](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md) ⭐ 28,912 | 🐛 1,850 | 🌐 Rust | 📅 2026-09-15. Found something cool? Please [contribute](CONTRIBUTING.md)!
+> Collections of awesome WezTerm plugins. [Plugin Guide](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md) ⭐ 28,926 | 🐛 1,851 | 🌐 Rust | 📅 2026-09-15. Found something cool? Please [contribute](CONTRIBUTING.md)!
 
 [WezTerm](https://wezfurlong.org/wezterm/) is a powerful cross-platform terminal emulator and multiplexer written by [@wez](https://github.com/wez) and implemented in [Rust](https://www.rust-lang.org).
 
@@ -77,7 +77,7 @@ To enhance your WezTerm configuration experience:
 * [adriankarlen/bar.wezterm](https://github.com/adriankarlen/bar.wezterm) ⭐ 242 | 🐛 2 | 🌐 Lua | 📅 2026-09-10 - A configurable tab bar with batteries included.
 * [yriveiro/wezterm-tabs](https://github.com/yriveiro/wezterm-tabs) ⭐ 31 | 🐛 1 | 🌐 Lua | 📅 2026-08-14 - Configurable tabs for the retro tab bar.
 * [yriveiro/wezterm-status](https://github.com/yriveiro/wezterm-status) ⭐ 25 | 🐛 0 | 🌐 Lua | 📅 2026-03-23 - Configurable status for the retro tab bar.
-* [pro-vi/wezterm-attention](https://github.com/pro-vi/wezterm-attention) ⭐ 20 | 🐛 1 | 🌐 Lua | 📅 2026-09-15 - Turns your tab bar into a notification system with colored tab indicators.
+* [pro-vi/wezterm-attention](https://github.com/pro-vi/wezterm-attention) ⭐ 20 | 🐛 1 | 🌐 Lua | 📅 2026-09-17 - Turns your tab bar into a notification system with colored tab indicators.
 * [rootiest/battery.wez](https://github.com/rootiest/battery.wez) ⭐ 10 | 🐛 0 | 🌐 Lua | 📅 2024-10-07 - A colorful and fancy battery component for the retro tab bar.
 
 ## Themes
@@ -85,7 +85,7 @@ To enhance your WezTerm configuration experience:
 * [neapsix/wezterm](https://github.com/neapsix/wezterm) ⭐ 84 | 🐛 0 | 🌐 Lua | 📅 2024-05-11 - Rosé Pine theme, all natural pine, faux fur and a bit of soho vibes.
 * [koh-sh/wezterm-theme-rotator](https://github.com/koh-sh/wezterm-theme-rotator) ⭐ 9 | 🐛 1 | 🌐 Lua | 📅 2025-03-23 - Cycle through built-in themes using keyboard shortcuts.
 * [sravioli/kanagawa.wz](https://github.com/sravioli/kanagawa.wz) ⭐ 8 | 🐛 0 | 🌐 Lua | 📅 2026-05-14 - Kanagawa.nvim color schemes with Wave, Dragon, and Lotus variants.
-* [willytop8/Wezterm-Window-Tint](https://github.com/willytop8/Wezterm-Window-Tint) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2026-06-29 - Color the window frame, tab bar, and status badge by the active pane's Git root.
+* [willytop8/Wezterm-Window-Tint](https://github.com/willytop8/Wezterm-Window-Tint) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2026-09-17 - Color the window frame, tab bar, and status badge by the active pane's Git root.
 * [Tomauskasz/electric-control-room.wez](https://github.com/Tomauskasz/electric-control-room.wez) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-07-16 - Animated electric control-room theme with layered APNG background effects.
 
 ## Utility
@@ -109,4 +109,4 @@ To enhance your WezTerm configuration experience:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
