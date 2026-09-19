@@ -192,7 +192,7 @@
             "open_issues": 0,
             "owner": "abidibo",
             "repo": "wezterm-cmdpicker",
-            "stars": 17,
+            "stars": 18,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
@@ -370,7 +370,7 @@
             "open_issues": 2,
             "owner": "smart-splits-nvim",
             "repo": "smart-splits.nvim",
-            "stars": 1721,
+            "stars": 1722,
             "topics": [
               "kitty",
               "mux",
@@ -545,7 +545,7 @@
             "open_issues": 4,
             "owner": "DavidRR-F",
             "repo": "quick_domains.wezterm",
-            "stars": 28,
+            "stars": 29,
             "topics": [
               "domains",
               "plugin",
@@ -851,10 +851,10 @@
             "description": "WezTerm plugin: file-based attention markers turn tabs into a notification surface for AI agents, builds, and scripts",
             "homepage": null,
             "id": 1186556139,
-            "language": "Lua",
+            "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-18T06:27:55Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-19T01:29:00Z",
+            "open_issues": 0,
             "owner": "pro-vi",
             "repo": "wezterm-attention",
             "stars": 20,
@@ -968,7 +968,7 @@
         },
         {
           "node_type": "item",
-          "title": "willytop8/Wezterm-Window-Tint",
+          "title": "william-ricchiuti/Wezterm-Window-Tint",
           "description": "Color the window frame, tab bar, and status badge by the active pane's Git root.",
           "children": [],
           "repo_info": {
@@ -1415,7 +1415,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T07:28:37.995Z",
+    "last_updated": "2026-09-19T07:24:39.947Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collections of awesome WezTerm plugins.",
@@ -1423,11 +1423,11 @@
       "id": 853943536,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-08-21T07:55:21Z",
-      "open_issues": 1,
+      "last_commit": "2026-09-18T09:52:42Z",
+      "open_issues": 0,
       "owner": "michaelbrusegard",
       "repo": "awesome-wezterm",
-      "stars": 755,
+      "stars": 758,
       "topics": [
         "awesome",
         "awesome-list",
@@ -1437,7 +1437,7 @@
         "wezterm-plugin"
       ]
     },
-    "original_repository_sha": "6ed4e910fcf8f6968a65df5ce01a3dfd7f8bb438",
+    "original_repository_sha": "ecfb49ce2164f779512e476ac598e28abc39ba99",
     "enhanced_repository": "enhansome/enhansome-wezterm",
     "enhanced_repository_description": null,
     "title": "Awesome WezTerm with stars"
