@@ -484,7 +484,7 @@
             "open_issues": 3,
             "owner": "MLFlexer",
             "repo": "smart_workspace_switcher.wezterm",
-            "stars": 204,
+            "stars": 205,
             "topics": [
               "plugin",
               "sesh",
@@ -853,11 +853,11 @@
             "id": 1186556139,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-22T04:53:59Z",
+            "last_commit": "2026-09-22T10:39:09Z",
             "open_issues": 1,
             "owner": "pro-vi",
             "repo": "wezterm-attention",
-            "stars": 20,
+            "stars": 19,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
@@ -1415,7 +1415,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T07:47:46.433Z",
+    "last_updated": "2026-09-23T07:50:24.847Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collections of awesome WezTerm plugins.",
