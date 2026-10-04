@@ -4,13 +4,13 @@
 
 <img src="https://raw.githubusercontent.com/wez/wezterm/main/assets/icon/wezterm-icon.svg" align="right" width="144" />
 
-> Collections of awesome WezTerm plugins. [Plugin Guide](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md) ⭐ 29,100 | 🐛 1,901 | 🌐 Rust | 📅 2026-09-29. Found something cool? Please [contribute](CONTRIBUTING.md)!
+> Collections of awesome WezTerm plugins. [Plugin Guide](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md) ⭐ 29,116 | 🐛 1,902 | 🌐 Rust | 📅 2026-09-29. Found something cool? Please [contribute](CONTRIBUTING.md)!
 
 [WezTerm](https://wezfurlong.org/wezterm/) is a powerful cross-platform terminal emulator and multiplexer written by [@wez](https://github.com/wez) and implemented in [Rust](https://www.rust-lang.org).
 
 To enhance your WezTerm configuration experience:
 
-* [DrKJeff16/wezterm-types](https://github.com/DrKJeff16/wezterm-types) ⭐ 224 | 🐛 2 | 🌐 Lua | 📅 2026-09-23 - WezTerm type annotations that can be added as a completion source in your editor to provide code assistance when working with WezTerm's Lua API. Includes community plugins support.
+* [DrKJeff16/wezterm-types](https://github.com/DrKJeff16/wezterm-types) ⭐ 225 | 🐛 2 | 🌐 Lua | 📅 2026-10-03 - WezTerm type annotations that can be added as a completion source in your editor to provide code assistance when working with WezTerm's Lua API. Includes community plugins support.
 
 ## Contents
 
@@ -28,7 +28,7 @@ To enhance your WezTerm configuration experience:
 
 * [Eric162/wezterm-agent-deck](https://github.com/Eric162/wezterm-agent-deck) ⭐ 73 | 🐛 1 | 🌐 Lua | 📅 2026-03-26 - Monitors AI coding agents, shows status dots in tabs and notifications when agents need attention.
 * [Michal1993r/ai-helper.wezterm](https://github.com/Michal1993r/ai-helper.wezterm/tree/master) ⭐ 38 | 🐛 1 | 🌐 Lua | 📅 2026-03-13 - Ask AI for CLI help with LM Studio or Google Gemini.
-* [dimao/ai-commander.wezterm](https://github.com/dimao/ai-commander.wezterm) ⭐ 11 | 🐛 2 | 🌐 Lua | 📅 2026-05-09 - Generate and select bash commands based on natural language prompts.
+* [dimao/ai-commander.wezterm](https://github.com/dimao/ai-commander.wezterm) ⭐ 12 | 🐛 2 | 🌐 Lua | 📅 2026-05-09 - Generate and select bash commands based on natural language prompts.
 * [M-Marbouh/agent-quota.wezterm](https://github.com/M-Marbouh/agent-quota.wezterm) ⭐ 5 | 🐛 0 | 🌐 Lua | 📅 2026-08-28 - Shows Claude and Codex quota usage in the status bar with reset countdowns, process-aware states, and shared caching.
 * [EdenGibson/wezterm-quota-limit](https://github.com/EdenGibson/wezterm-quota-limit) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2026-06-21 - Shows Claude API usage quota in the status bar with color-coded thresholds and automatic token refresh.
 
@@ -74,10 +74,10 @@ To enhance your WezTerm configuration experience:
 ## Tab bar
 
 * [michaelbrusegard/tabline.wez](https://github.com/michaelbrusegard/tabline.wez) ⭐ 312 | 🐛 3 | 🌐 Lua | 📅 2026-07-23 - A versatile and easy to use retro tab bar with the `lualine.nvim` configuration format.
-* [adriankarlen/bar.wezterm](https://github.com/adriankarlen/bar.wezterm) ⭐ 246 | 🐛 2 | 🌐 Lua | 📅 2026-09-10 - A configurable tab bar with batteries included.
+* [adriankarlen/bar.wezterm](https://github.com/adriankarlen/bar.wezterm) ⭐ 246 | 🐛 1 | 🌐 Lua | 📅 2026-10-03 - A configurable tab bar with batteries included.
 * [yriveiro/wezterm-tabs](https://github.com/yriveiro/wezterm-tabs) ⭐ 31 | 🐛 1 | 🌐 Lua | 📅 2026-08-14 - Configurable tabs for the retro tab bar.
 * [yriveiro/wezterm-status](https://github.com/yriveiro/wezterm-status) ⭐ 25 | 🐛 0 | 🌐 Lua | 📅 2026-03-23 - Configurable status for the retro tab bar.
-* [pro-vi/wezterm-attention](https://github.com/pro-vi/wezterm-attention) ⭐ 19 | 🐛 0 | 🌐 Rust | 📅 2026-10-02 - Turns your tab bar into a notification system with colored tab indicators.
+* [pro-vi/wezterm-attention](https://github.com/pro-vi/wezterm-attention) ⭐ 19 | 🐛 0 | 🌐 Rust | 📅 2026-10-03 - Turns your tab bar into a notification system with colored tab indicators.
 * [rootiest/battery.wez](https://github.com/rootiest/battery.wez) ⭐ 10 | 🐛 0 | 🌐 Lua | 📅 2024-10-07 - A colorful and fancy battery component for the retro tab bar.
 
 ## Themes
@@ -109,4 +109,4 @@ To enhance your WezTerm configuration experience:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
