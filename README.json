@@ -370,7 +370,7 @@
             "open_issues": 2,
             "owner": "smart-splits-nvim",
             "repo": "smart-splits.nvim",
-            "stars": 1734,
+            "stars": 1735,
             "topics": [
               "kitty",
               "mux",
@@ -484,7 +484,7 @@
             "open_issues": 3,
             "owner": "MLFlexer",
             "repo": "smart_workspace_switcher.wezterm",
-            "stars": 204,
+            "stars": 205,
             "topics": [
               "plugin",
               "sesh",
@@ -575,7 +575,7 @@
             "open_issues": 0,
             "owner": "abidibo",
             "repo": "wezterm-sessions",
-            "stars": 28,
+            "stars": 29,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
@@ -603,6 +603,32 @@
         },
         {
           "node_type": "item",
+          "title": "ryanmsnyder/workspace-manager.wezterm",
+          "description": "Navigate projects effortlessly with smart workspace switching and keyboard-driven navigation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Powerful workspace manager for Wezterm with smart switching, keyboard navigation, and zoxide integration",
+            "homepage": null,
+            "id": 1147055443,
+            "language": "Lua",
+            "license": null,
+            "last_commit": "2026-04-24T19:41:43Z",
+            "open_issues": 5,
+            "owner": "ryanmsnyder",
+            "repo": "workspace-manager.wezterm",
+            "stars": 8,
+            "topics": [
+              "terminal",
+              "wezterm",
+              "wezterm-plugin",
+              "zoxide"
+            ]
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
+        },
+        {
+          "node_type": "item",
           "title": "isseii10/workspace-picker.wezterm",
           "description": "Workspace switcher with integration.",
           "children": [],
@@ -619,32 +645,6 @@
             "repo": "workspace-picker.wezterm",
             "stars": 7,
             "topics": []
-          },
-          "first_seen": "2026-08-28T14:25:40.908Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ryanmsnyder/workspace-manager.wezterm",
-          "description": "Navigate projects effortlessly with smart workspace switching and keyboard-driven navigation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Powerful workspace manager for Wezterm with smart switching, keyboard navigation, and zoxide integration",
-            "homepage": null,
-            "id": 1147055443,
-            "language": "Lua",
-            "license": null,
-            "last_commit": "2026-04-24T19:41:43Z",
-            "open_issues": 5,
-            "owner": "ryanmsnyder",
-            "repo": "workspace-manager.wezterm",
-            "stars": 7,
-            "topics": [
-              "terminal",
-              "wezterm",
-              "wezterm-plugin",
-              "zoxide"
-            ]
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -1415,7 +1415,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T08:32:09.347Z",
+    "last_updated": "2026-10-05T09:14:47.439Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collections of awesome WezTerm plugins.",
