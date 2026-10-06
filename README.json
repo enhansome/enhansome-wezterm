@@ -79,9 +79,9 @@
             "description": "WezTerm status bar plugin for Claude and Codex quota usage",
             "homepage": null,
             "id": 1187860165,
-            "language": "Lua",
+            "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-28T11:04:18Z",
+            "last_commit": "2026-10-05T15:52:29Z",
             "open_issues": 0,
             "owner": "M-Marbouh",
             "repo": "agent-quota.wezterm",
@@ -370,7 +370,7 @@
             "open_issues": 2,
             "owner": "smart-splits-nvim",
             "repo": "smart-splits.nvim",
-            "stars": 1735,
+            "stars": 1736,
             "topics": [
               "kitty",
               "mux",
@@ -747,7 +747,7 @@
             "open_issues": 3,
             "owner": "michaelbrusegard",
             "repo": "tabline.wez",
-            "stars": 312,
+            "stars": 313,
             "topics": [
               "lua",
               "lualine",
@@ -853,7 +853,7 @@
             "id": 1186556139,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-03T10:18:08Z",
+            "last_commit": "2026-10-06T07:44:14Z",
             "open_issues": 0,
             "owner": "pro-vi",
             "repo": "wezterm-attention",
@@ -1415,7 +1415,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T09:14:47.439Z",
+    "last_updated": "2026-10-06T09:07:15.353Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collections of awesome WezTerm plugins.",
