@@ -366,24 +366,22 @@
             "id": 471784921,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-10-07T20:10:38Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-08T18:43:07Z",
+            "open_issues": 0,
             "owner": "smart-splits-nvim",
             "repo": "smart-splits.nvim",
-            "stars": 1735,
+            "stars": 1736,
             "topics": [
-              "kitty",
+              "multiplexer",
               "mux",
               "neovim",
               "neovim-plugin",
               "nvim",
               "split",
               "split-pane",
-              "tmux",
-              "wezterm",
+              "terminal-multiplexer",
               "window-management",
-              "window-manager",
-              "zellij"
+              "window-manager"
             ]
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
@@ -905,7 +903,7 @@
             "open_issues": 0,
             "owner": "neapsix",
             "repo": "wezterm",
-            "stars": 86,
+            "stars": 87,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
@@ -1415,7 +1413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T09:09:39.648Z",
+    "last_updated": "2026-10-09T09:17:31.811Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collections of awesome WezTerm plugins.",
@@ -1424,7 +1422,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-18T09:52:42Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "michaelbrusegard",
       "repo": "awesome-wezterm",
       "stars": 762,
