@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "Eric162",
             "repo": "wezterm-agent-deck",
-            "stars": 73,
+            "stars": 74,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
@@ -366,7 +366,7 @@
             "id": 471784921,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-10-08T18:43:07Z",
+            "last_commit": "2026-10-09T16:28:28Z",
             "open_issues": 0,
             "owner": "smart-splits-nvim",
             "repo": "smart-splits.nvim",
@@ -683,7 +683,7 @@
             "open_issues": 2,
             "owner": "StephenGemin",
             "repo": "resurrect.wezterm",
-            "stars": 1,
+            "stars": 2,
             "topics": [
               "layout",
               "panes",
@@ -851,11 +851,11 @@
             "id": 1186556139,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-07T10:46:48Z",
+            "last_commit": "2026-10-09T22:08:43Z",
             "open_issues": 0,
             "owner": "pro-vi",
             "repo": "wezterm-attention",
-            "stars": 19,
+            "stars": 20,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
@@ -1358,6 +1358,37 @@
         },
         {
           "node_type": "item",
+          "title": "sravioli/sigil.wz",
+          "description": "Icon and identity-color registry for processes, tools, and UI labels.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🔮 Icons and identity colors for WezTerm processes, tools, and UI labels.",
+            "homepage": null,
+            "id": 1233325472,
+            "language": "Lua",
+            "license": "GPL-2.0",
+            "last_commit": "2026-05-14T13:58:04Z",
+            "open_issues": 0,
+            "owner": "sravioli",
+            "repo": "sigil.wz",
+            "stars": 2,
+            "topics": [
+              "devicons",
+              "icons",
+              "lua",
+              "nerdfonts",
+              "statusline",
+              "tabline",
+              "terminal",
+              "wezterm",
+              "wezterm-plugin"
+            ]
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
+        },
+        {
+          "node_type": "item",
           "title": "btrachey/wezterm-replay",
           "description": "Parse command output and get URLs, shell commands, etc. pasted into your next prompt.",
           "children": [],
@@ -1376,44 +1407,13 @@
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
-        },
-        {
-          "node_type": "item",
-          "title": "sravioli/sigil.wz",
-          "description": "Icon and identity-color registry for processes, tools, and UI labels.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🔮 Icons and identity colors for WezTerm processes, tools, and UI labels.",
-            "homepage": null,
-            "id": 1233325472,
-            "language": "Lua",
-            "license": "GPL-2.0",
-            "last_commit": "2026-05-14T13:58:04Z",
-            "open_issues": 0,
-            "owner": "sravioli",
-            "repo": "sigil.wz",
-            "stars": 1,
-            "topics": [
-              "devicons",
-              "icons",
-              "lua",
-              "nerdfonts",
-              "statusline",
-              "tabline",
-              "terminal",
-              "wezterm",
-              "wezterm-plugin"
-            ]
-          },
-          "first_seen": "2026-08-28T14:25:40.908Z"
         }
       ],
       "title": "Utility"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T09:17:31.811Z",
+    "last_updated": "2026-10-10T08:39:45.824Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collections of awesome WezTerm plugins.",
@@ -1425,7 +1425,7 @@
       "open_issues": 1,
       "owner": "michaelbrusegard",
       "repo": "awesome-wezterm",
-      "stars": 762,
+      "stars": 764,
       "topics": [
         "awesome",
         "awesome-list",
