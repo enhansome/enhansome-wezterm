@@ -117,6 +117,45 @@
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
+        },
+        {
+          "node_type": "item",
+          "title": "sethupavan12/commander.wezterm",
+          "description": "Describe a shell command in plain English, refine it in a drawer, and paste it at your prompt without running it. Works with OpenAI or any OpenAI-compatible server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "WezTerm plugin: press a key, describe what you want in plain English, get a shell command pasted at your prompt",
+            "homepage": null,
+            "id": 1405387814,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-08T12:26:14Z",
+            "open_issues": 0,
+            "owner": "sethupavan12",
+            "repo": "commander.wezterm",
+            "stars": 0,
+            "topics": [
+              "ai",
+              "cli",
+              "command-line",
+              "developer-tools",
+              "llm",
+              "local-llm",
+              "lua",
+              "natural-language",
+              "ollama",
+              "openai",
+              "productivity",
+              "python",
+              "shell",
+              "shell-commands",
+              "terminal",
+              "wezterm",
+              "wezterm-plugin"
+            ]
+          },
+          "first_seen": "2026-10-13T09:33:49.044Z"
         }
       ],
       "title": "AI"
@@ -851,7 +890,7 @@
             "id": 1186556139,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-12T07:05:10Z",
+            "last_commit": "2026-10-13T03:20:08Z",
             "open_issues": 0,
             "owner": "pro-vi",
             "repo": "wezterm-attention",
@@ -1413,7 +1452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T09:25:38.655Z",
+    "last_updated": "2026-10-13T09:33:49.044Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collections of awesome WezTerm plugins.",
@@ -1421,11 +1460,11 @@
       "id": 853943536,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-18T09:52:42Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-12T19:30:58Z",
+      "open_issues": 0,
       "owner": "michaelbrusegard",
       "repo": "awesome-wezterm",
-      "stars": 767,
+      "stars": 769,
       "topics": [
         "awesome",
         "awesome-list",
@@ -1435,7 +1474,7 @@
         "wezterm-plugin"
       ]
     },
-    "original_repository_sha": "ecfb49ce2164f779512e476ac598e28abc39ba99",
+    "original_repository_sha": "ea72a5ffc2055ce6b3e39ce556d12ad838e2c5b4",
     "enhanced_repository": "enhansome/enhansome-wezterm",
     "enhanced_repository_description": null,
     "title": "Awesome WezTerm with stars"
