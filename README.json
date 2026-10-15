@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "Eric162",
             "repo": "wezterm-agent-deck",
-            "stars": 74,
+            "stars": 75,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
@@ -40,7 +40,7 @@
             "open_issues": 1,
             "owner": "Michal1993r",
             "repo": "ai-helper.wezterm",
-            "stars": 38,
+            "stars": 39,
             "topics": [
               "ai",
               "wezterm-plugin"
@@ -85,7 +85,7 @@
             "open_issues": 0,
             "owner": "M-Marbouh",
             "repo": "agent-quota.wezterm",
-            "stars": 5,
+            "stars": 6,
             "topics": [
               "ai",
               "claude",
@@ -113,7 +113,7 @@
             "open_issues": 0,
             "owner": "EdenGibson",
             "repo": "wezterm-quota-limit",
-            "stars": 3,
+            "stars": 4,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
@@ -298,7 +298,7 @@
             "id": 1233289215,
             "language": "Lua",
             "license": "GPL-2.0",
-            "last_commit": "2026-05-14T13:33:37Z",
+            "last_commit": "2026-10-14T13:10:33Z",
             "open_issues": 0,
             "owner": "sravioli",
             "repo": "chord.wz",
@@ -890,7 +890,7 @@
             "id": 1186556139,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-14T07:16:55Z",
+            "last_commit": "2026-10-14T12:19:27Z",
             "open_issues": 1,
             "owner": "pro-vi",
             "repo": "wezterm-attention",
@@ -986,7 +986,7 @@
             "id": 1186688414,
             "language": "Lua",
             "license": "GPL-2.0",
-            "last_commit": "2026-05-14T13:46:09Z",
+            "last_commit": "2026-10-14T13:10:43Z",
             "open_issues": 0,
             "owner": "sravioli",
             "repo": "kanagawa.wz",
@@ -1123,7 +1123,7 @@
             "open_issues": 1,
             "owner": "usrivastava92",
             "repo": "widgets.wez",
-            "stars": 11,
+            "stars": 12,
             "topics": [
               "battery",
               "cpu",
@@ -1238,7 +1238,7 @@
             "id": 1198806635,
             "language": "Lua",
             "license": "GPL-2.0",
-            "last_commit": "2026-05-14T13:46:36Z",
+            "last_commit": "2026-10-14T13:10:25Z",
             "open_issues": 0,
             "owner": "sravioli",
             "repo": "lantern.wz",
@@ -1289,7 +1289,7 @@
             "id": 1189369925,
             "language": "Lua",
             "license": "GPL-2.0",
-            "last_commit": "2026-05-14T13:58:53Z",
+            "last_commit": "2026-10-14T13:10:29Z",
             "open_issues": 0,
             "owner": "sravioli",
             "repo": "warp.wz",
@@ -1319,7 +1319,7 @@
             "id": 1185680647,
             "language": "Lua",
             "license": "GPL-2.0",
-            "last_commit": "2026-05-14T13:48:49Z",
+            "last_commit": "2026-10-14T13:10:40Z",
             "open_issues": 0,
             "owner": "sravioli",
             "repo": "log.wz",
@@ -1347,7 +1347,7 @@
             "id": 1186343024,
             "language": "Lua",
             "license": "GPL-2.0",
-            "last_commit": "2026-05-14T13:49:28Z",
+            "last_commit": "2026-10-14T13:10:37Z",
             "open_issues": 0,
             "owner": "sravioli",
             "repo": "memo.wz",
@@ -1376,7 +1376,7 @@
             "id": 1233183108,
             "language": "Lua",
             "license": "GPL-2.0",
-            "last_commit": "2026-05-14T13:55:45Z",
+            "last_commit": "2026-10-14T13:10:47Z",
             "open_issues": 0,
             "owner": "sravioli",
             "repo": "ribbon.wz",
@@ -1407,7 +1407,7 @@
             "id": 1233325472,
             "language": "Lua",
             "license": "GPL-2.0",
-            "last_commit": "2026-05-14T13:58:04Z",
+            "last_commit": "2026-10-14T13:10:50Z",
             "open_issues": 0,
             "owner": "sravioli",
             "repo": "sigil.wz",
@@ -1452,7 +1452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T07:47:51.854Z",
+    "last_updated": "2026-10-15T07:34:09.809Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collections of awesome WezTerm plugins.",
@@ -1464,7 +1464,7 @@
       "open_issues": 0,
       "owner": "michaelbrusegard",
       "repo": "awesome-wezterm",
-      "stars": 770,
+      "stars": 772,
       "topics": [
         "awesome",
         "awesome-list",
