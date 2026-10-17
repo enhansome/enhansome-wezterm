@@ -231,7 +231,7 @@
             "open_issues": 0,
             "owner": "abidibo",
             "repo": "wezterm-cmdpicker",
-            "stars": 19,
+            "stars": 18,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
@@ -276,7 +276,7 @@
             "open_issues": 3,
             "owner": "annie444",
             "repo": "sync-panes.wez",
-            "stars": 6,
+            "stars": 7,
             "topics": [
               "keybindings",
               "multiplexing",
@@ -298,7 +298,7 @@
             "id": 1233289215,
             "language": "Lua",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-14T13:10:33Z",
+            "last_commit": "2026-10-16T12:10:22Z",
             "open_issues": 0,
             "owner": "sravioli",
             "repo": "chord.wz",
@@ -405,11 +405,11 @@
             "id": 471784921,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-10-16T01:32:34Z",
+            "last_commit": "2026-10-16T17:53:55Z",
             "open_issues": 0,
             "owner": "smart-splits-nvim",
             "repo": "smart-splits.nvim",
-            "stars": 1737,
+            "stars": 1738,
             "topics": [
               "multiplexer",
               "mux",
@@ -473,7 +473,7 @@
             "open_issues": 0,
             "owner": "ChrisGVE",
             "repo": "pivot_panes.wezterm",
-            "stars": 7,
+            "stars": 6,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
@@ -521,7 +521,7 @@
             "open_issues": 3,
             "owner": "MLFlexer",
             "repo": "smart_workspace_switcher.wezterm",
-            "stars": 205,
+            "stars": 204,
             "topics": [
               "plugin",
               "sesh",
@@ -568,36 +568,6 @@
         },
         {
           "node_type": "item",
-          "title": "DavidRR-F/quick_domains.wezterm",
-          "description": "Faster way to search and attach to (SSH) domains.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Quckly search and attach to wezterm domains with a click of a keybind",
-            "homepage": null,
-            "id": 854167313,
-            "language": "Lua",
-            "license": "MIT",
-            "last_commit": "2026-02-01T17:39:16Z",
-            "open_issues": 4,
-            "owner": "DavidRR-F",
-            "repo": "quick_domains.wezterm",
-            "stars": 29,
-            "topics": [
-              "domains",
-              "plugin",
-              "shell",
-              "ssh-config",
-              "wez",
-              "wezterm",
-              "wezterm-domains",
-              "wezterm-plugin"
-            ]
-          },
-          "first_seen": "2026-08-28T14:25:40.908Z"
-        },
-        {
-          "node_type": "item",
           "title": "abidibo/wezterm-sessions",
           "description": "Save and restore sessions.",
           "children": [],
@@ -614,6 +584,36 @@
             "repo": "wezterm-sessions",
             "stars": 29,
             "topics": []
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
+        },
+        {
+          "node_type": "item",
+          "title": "DavidRR-F/quick_domains.wezterm",
+          "description": "Faster way to search and attach to (SSH) domains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Quckly search and attach to wezterm domains with a click of a keybind",
+            "homepage": null,
+            "id": 854167313,
+            "language": "Lua",
+            "license": "MIT",
+            "last_commit": "2026-02-01T17:39:16Z",
+            "open_issues": 4,
+            "owner": "DavidRR-F",
+            "repo": "quick_domains.wezterm",
+            "stars": 28,
+            "topics": [
+              "domains",
+              "plugin",
+              "shell",
+              "ssh-config",
+              "wez",
+              "wezterm",
+              "wezterm-domains",
+              "wezterm-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
         },
@@ -781,7 +781,7 @@
             "language": "Lua",
             "license": "MIT",
             "last_commit": "2026-07-23T21:52:06Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "michaelbrusegard",
             "repo": "tabline.wez",
             "stars": 315,
@@ -890,7 +890,7 @@
             "id": 1186556139,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-16T07:15:56Z",
+            "last_commit": "2026-10-17T03:09:26Z",
             "open_issues": 1,
             "owner": "pro-vi",
             "repo": "wezterm-attention",
@@ -1162,27 +1162,6 @@
         },
         {
           "node_type": "item",
-          "title": "quantonganh/quickselect.wezterm",
-          "description": "Jump to the build error by opening them in Helix.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A WezTerm plugin to jump to the build error by opening them in Helix.",
-            "homepage": "https://quantonganh.com/2023/07/21/jump-to-build-error-helix.md",
-            "id": 1030764977,
-            "language": "Lua",
-            "license": "MIT",
-            "last_commit": "2025-12-13T03:36:24Z",
-            "open_issues": 0,
-            "owner": "quantonganh",
-            "repo": "quickselect.wezterm",
-            "stars": 8,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T14:25:40.908Z"
-        },
-        {
-          "node_type": "item",
           "title": "aureolebigben/wezterm-cmd-sender",
           "description": "Send commands to multiple panes.",
           "children": [],
@@ -1221,6 +1200,27 @@
             "open_issues": 1,
             "owner": "ChrisGVE",
             "repo": "dev.wezterm",
+            "stars": 7,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
+        },
+        {
+          "node_type": "item",
+          "title": "quantonganh/quickselect.wezterm",
+          "description": "Jump to the build error by opening them in Helix.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A WezTerm plugin to jump to the build error by opening them in Helix.",
+            "homepage": "https://quantonganh.com/2023/07/21/jump-to-build-error-helix.md",
+            "id": 1030764977,
+            "language": "Lua",
+            "license": "MIT",
+            "last_commit": "2025-12-13T03:36:24Z",
+            "open_issues": 0,
+            "owner": "quantonganh",
+            "repo": "quickselect.wezterm",
             "stars": 7,
             "topics": []
           },
@@ -1289,7 +1289,7 @@
             "id": 1189369925,
             "language": "Lua",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-14T13:10:29Z",
+            "last_commit": "2026-10-16T11:31:55Z",
             "open_issues": 0,
             "owner": "sravioli",
             "repo": "warp.wz",
@@ -1319,7 +1319,7 @@
             "id": 1185680647,
             "language": "Lua",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-14T13:10:40Z",
+            "last_commit": "2026-10-16T12:10:25Z",
             "open_issues": 0,
             "owner": "sravioli",
             "repo": "log.wz",
@@ -1347,7 +1347,7 @@
             "id": 1186343024,
             "language": "Lua",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-14T13:10:37Z",
+            "last_commit": "2026-10-16T11:31:52Z",
             "open_issues": 0,
             "owner": "sravioli",
             "repo": "memo.wz",
@@ -1376,7 +1376,7 @@
             "id": 1233183108,
             "language": "Lua",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-14T13:10:47Z",
+            "last_commit": "2026-10-16T12:10:29Z",
             "open_issues": 0,
             "owner": "sravioli",
             "repo": "ribbon.wz",
@@ -1407,7 +1407,7 @@
             "id": 1233325472,
             "language": "Lua",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-14T13:10:50Z",
+            "last_commit": "2026-10-16T12:10:32Z",
             "open_issues": 0,
             "owner": "sravioli",
             "repo": "sigil.wz",
@@ -1452,7 +1452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T07:20:04.410Z",
+    "last_updated": "2026-10-17T07:02:55.119Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collections of awesome WezTerm plugins.",
