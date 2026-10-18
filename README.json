@@ -890,7 +890,7 @@
             "id": 1186556139,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-17T03:09:26Z",
+            "last_commit": "2026-10-18T03:03:50Z",
             "open_issues": 1,
             "owner": "pro-vi",
             "repo": "wezterm-attention",
@@ -1123,7 +1123,7 @@
             "open_issues": 1,
             "owner": "usrivastava92",
             "repo": "widgets.wez",
-            "stars": 12,
+            "stars": 13,
             "topics": [
               "battery",
               "cpu",
@@ -1452,7 +1452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T07:02:55.119Z",
+    "last_updated": "2026-10-18T07:18:09.392Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collections of awesome WezTerm plugins.",
