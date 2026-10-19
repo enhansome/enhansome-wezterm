@@ -1123,7 +1123,7 @@
             "open_issues": 1,
             "owner": "usrivastava92",
             "repo": "widgets.wez",
-            "stars": 13,
+            "stars": 12,
             "topics": [
               "battery",
               "cpu",
@@ -1452,7 +1452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T07:18:09.392Z",
+    "last_updated": "2026-10-19T07:55:08.963Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collections of awesome WezTerm plugins.",
