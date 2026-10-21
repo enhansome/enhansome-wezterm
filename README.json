@@ -890,11 +890,11 @@
             "id": 1186556139,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-19T12:34:24Z",
+            "last_commit": "2026-10-20T11:27:15Z",
             "open_issues": 1,
             "owner": "pro-vi",
             "repo": "wezterm-attention",
-            "stars": 20,
+            "stars": 21,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
@@ -1452,7 +1452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T07:44:37.481Z",
+    "last_updated": "2026-10-21T07:49:00.607Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collections of awesome WezTerm plugins.",
