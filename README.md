@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/wez/wezterm/main/assets/icon/wezterm-icon.svg" align="right" width="144" />
 
-> Collections of awesome WezTerm plugins. [Plugin Guide](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md) ⭐ 29,330 | 🐛 1,931 | 🌐 Rust | 📅 2026-10-19. Found something cool? Please [contribute](CONTRIBUTING.md)!
+> Collections of awesome WezTerm plugins. [Plugin Guide](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md) ⭐ 29,335 | 🐛 1,933 | 🌐 Rust | 📅 2026-10-19. Found something cool? Please [contribute](CONTRIBUTING.md)!
 
 [WezTerm](https://wezfurlong.org/wezterm/) is a powerful cross-platform terminal emulator and multiplexer written by [@wez](https://github.com/wez) and implemented in [Rust](https://www.rust-lang.org).
 
@@ -29,7 +29,7 @@ To enhance your WezTerm configuration experience:
 * [Eric162/wezterm-agent-deck](https://github.com/Eric162/wezterm-agent-deck) ⭐ 75 | 🐛 1 | 🌐 Lua | 📅 2026-03-26 - Monitors AI coding agents, shows status dots in tabs and notifications when agents need attention.
 * [Michal1993r/ai-helper.wezterm](https://github.com/Michal1993r/ai-helper.wezterm/tree/master) ⭐ 39 | 🐛 1 | 🌐 Lua | 📅 2026-03-13 - Ask AI for CLI help with LM Studio or Google Gemini.
 * [dimao/ai-commander.wezterm](https://github.com/dimao/ai-commander.wezterm) ⭐ 12 | 🐛 2 | 🌐 Lua | 📅 2026-05-09 - Generate and select bash commands based on natural language prompts.
-* [M-Marbouh/agent-quota.wezterm](https://github.com/M-Marbouh/agent-quota.wezterm) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-10-05 - Shows Claude and Codex quota usage in the status bar with reset countdowns, process-aware states, and shared caching.
+* [M-Marbouh/agent-quota.wezterm](https://github.com/M-Marbouh/agent-quota.wezterm) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-10-24 - Shows Claude and Codex quota usage in the status bar with reset countdowns, process-aware states, and shared caching.
 * [EdenGibson/wezterm-quota-limit](https://github.com/EdenGibson/wezterm-quota-limit) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2026-06-21 - Shows Claude API usage quota in the status bar with color-coded thresholds and automatic token refresh.
 * [sethupavan12/commander.wezterm](https://github.com/sethupavan12/commander.wezterm) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-08 - Describe a shell command in plain English, refine it in a drawer, and paste it at your prompt without running it. Works with OpenAI or any OpenAI-compatible server.
 
@@ -110,4 +110,4 @@ To enhance your WezTerm configuration experience:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
