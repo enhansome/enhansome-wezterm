@@ -357,7 +357,7 @@
             "id": 1131659250,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-09-14T11:30:14Z",
+            "last_commit": "2026-10-26T20:20:24Z",
             "open_issues": 0,
             "owner": "KawaiiSelbst",
             "repo": "nu_utf8_hack.wez",
@@ -784,7 +784,7 @@
             "open_issues": 4,
             "owner": "michaelbrusegard",
             "repo": "tabline.wez",
-            "stars": 315,
+            "stars": 316,
             "topics": [
               "lua",
               "lualine",
@@ -814,7 +814,7 @@
             "open_issues": 1,
             "owner": "adriankarlen",
             "repo": "bar.wezterm",
-            "stars": 249,
+            "stars": 250,
             "topics": [
               "multiplexing",
               "rice",
@@ -890,7 +890,7 @@
             "id": 1186556139,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-22T10:43:48Z",
+            "last_commit": "2026-10-27T00:52:58Z",
             "open_issues": 1,
             "owner": "pro-vi",
             "repo": "wezterm-attention",
@@ -1452,7 +1452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T07:55:24.951Z",
+    "last_updated": "2026-10-27T08:01:56.238Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collections of awesome WezTerm plugins.",
@@ -1464,7 +1464,7 @@
       "open_issues": 0,
       "owner": "michaelbrusegard",
       "repo": "awesome-wezterm",
-      "stars": 776,
+      "stars": 777,
       "topics": [
         "awesome",
         "awesome-list",
