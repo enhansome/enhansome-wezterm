@@ -890,7 +890,7 @@
             "id": 1186556139,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-27T09:42:12Z",
+            "last_commit": "2026-10-30T08:38:32Z",
             "open_issues": 1,
             "owner": "pro-vi",
             "repo": "wezterm-attention",
@@ -1452,7 +1452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T08:40:01.706Z",
+    "last_updated": "2026-10-30T08:46:05.603Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collections of awesome WezTerm plugins.",
@@ -1464,7 +1464,7 @@
       "open_issues": 0,
       "owner": "michaelbrusegard",
       "repo": "awesome-wezterm",
-      "stars": 779,
+      "stars": 780,
       "topics": [
         "awesome",
         "awesome-list",
