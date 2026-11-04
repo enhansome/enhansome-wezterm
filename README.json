@@ -894,7 +894,7 @@
             "open_issues": 1,
             "owner": "pro-vi",
             "repo": "wezterm-attention",
-            "stars": 24,
+            "stars": 25,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
@@ -1452,7 +1452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T09:42:46.923Z",
+    "last_updated": "2026-11-04T09:29:32.721Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collections of awesome WezTerm plugins.",
