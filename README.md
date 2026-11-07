@@ -4,13 +4,13 @@
 
 <img src="https://raw.githubusercontent.com/wez/wezterm/main/assets/icon/wezterm-icon.svg" align="right" width="144" />
 
-> Collections of awesome WezTerm plugins. [Plugin Guide](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md) ⭐ 29,466 | 🐛 1,954 | 🌐 Rust | 📅 2026-10-26. Found something cool? Please [contribute](CONTRIBUTING.md)!
+> Collections of awesome WezTerm plugins. [Plugin Guide](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md) ⭐ 29,479 | 🐛 1,952 | 🌐 Rust | 📅 2026-10-26. Found something cool? Please [contribute](CONTRIBUTING.md)!
 
 [WezTerm](https://wezfurlong.org/wezterm/) is a powerful cross-platform terminal emulator and multiplexer written by [@wez](https://github.com/wez) and implemented in [Rust](https://www.rust-lang.org).
 
 To enhance your WezTerm configuration experience:
 
-* [DrKJeff16/wezterm-types](https://github.com/DrKJeff16/wezterm-types) ⭐ 228 | 🐛 2 | 🌐 Lua | 📅 2026-10-29 - WezTerm type annotations that can be added as a completion source in your editor to provide code assistance when working with WezTerm's Lua API. Includes community plugins support.
+* [DrKJeff16/wezterm-types](https://github.com/DrKJeff16/wezterm-types) ⭐ 229 | 🐛 2 | 🌐 Lua | 📅 2026-10-29 - WezTerm type annotations that can be added as a completion source in your editor to provide code assistance when working with WezTerm's Lua API. Includes community plugins support.
 
 ## Contents
 
@@ -29,7 +29,7 @@ To enhance your WezTerm configuration experience:
 * [Eric162/wezterm-agent-deck](https://github.com/Eric162/wezterm-agent-deck) ⭐ 75 | 🐛 1 | 🌐 Lua | 📅 2026-03-26 - Monitors AI coding agents, shows status dots in tabs and notifications when agents need attention.
 * [Michal1993r/ai-helper.wezterm](https://github.com/Michal1993r/ai-helper.wezterm/tree/master) ⭐ 39 | 🐛 1 | 🌐 Lua | 📅 2026-03-13 - Ask AI for CLI help with LM Studio or Google Gemini.
 * [dimao/ai-commander.wezterm](https://github.com/dimao/ai-commander.wezterm) ⭐ 13 | 🐛 2 | 🌐 Lua | 📅 2026-05-09 - Generate and select bash commands based on natural language prompts.
-* [M-Marbouh/agent-quota.wezterm](https://github.com/M-Marbouh/agent-quota.wezterm) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-10-24 - Shows Claude and Codex quota usage in the status bar with reset countdowns, process-aware states, and shared caching.
+* [M-Marbouh/agent-quota.wezterm](https://github.com/M-Marbouh/agent-quota.wezterm) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-11-06 - Shows Claude and Codex quota usage in the status bar with reset countdowns, process-aware states, and shared caching.
 * [EdenGibson/wezterm-quota-limit](https://github.com/EdenGibson/wezterm-quota-limit) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2026-06-21 - Shows Claude API usage quota in the status bar with color-coded thresholds and automatic token refresh.
 * [sethupavan12/commander.wezterm](https://github.com/sethupavan12/commander.wezterm) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-11-01 - Describe a shell command in plain English, refine it in a drawer, and paste it at your prompt without running it. Works with OpenAI or any OpenAI-compatible server.
 
@@ -51,7 +51,7 @@ To enhance your WezTerm configuration experience:
 
 ## Neovim
 
-* [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) ⭐ 1,746 | 🐛 0 | 🌐 Lua | 📅 2026-10-30 - Provides an addon for seamless pane navigation between Neovim and the WezTerm MUX.
+* [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) ⭐ 1,748 | 🐛 0 | 🌐 Lua | 📅 2026-11-06 - Provides an addon for seamless pane navigation between Neovim and the WezTerm MUX.
 * [winter-again/wezterm-config.nvim](https://github.com/winter-again/wezterm-config.nvim) ⭐ 73 | 🐛 2 | 🌐 Lua | 📅 2026-04-01 - Interact with the WezTerm configuration directly from Neovim.
 
 ## Panes
@@ -84,7 +84,7 @@ To enhance your WezTerm configuration experience:
 ## Themes
 
 * [neapsix/wezterm](https://github.com/neapsix/wezterm) ⭐ 87 | 🐛 0 | 🌐 Lua | 📅 2024-05-11 - Rosé Pine theme, all natural pine, faux fur and a bit of soho vibes.
-* [koh-sh/wezterm-theme-rotator](https://github.com/koh-sh/wezterm-theme-rotator) ⭐ 9 | 🐛 1 | 🌐 Lua | 📅 2025-03-23 - Cycle through built-in themes using keyboard shortcuts.
+* [koh-sh/wezterm-theme-rotator](https://github.com/koh-sh/wezterm-theme-rotator) ⭐ 10 | 🐛 1 | 🌐 Lua | 📅 2025-03-23 - Cycle through built-in themes using keyboard shortcuts.
 * [sravioli/kanagawa.wz](https://github.com/sravioli/kanagawa.wz) ⭐ 8 | 🐛 0 | 🌐 Lua | 📅 2026-10-14 - Kanagawa.nvim color schemes with Wave, Dragon, and Lotus variants.
 * [william-ricchiuti/Wezterm-Window-Tint](https://github.com/william-ricchiuti/Wezterm-Window-Tint) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2026-09-17 - Color the window frame, tab bar, and status badge by the active pane's Git root.
 * [Tomauskasz/electric-control-room.wez](https://github.com/Tomauskasz/electric-control-room.wez) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-07-16 - Animated electric control-room theme with layered APNG background effects.
@@ -110,4 +110,4 @@ To enhance your WezTerm configuration experience:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
