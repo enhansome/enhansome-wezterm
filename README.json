@@ -81,7 +81,7 @@
             "id": 1187860165,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-06T18:09:14Z",
+            "last_commit": "2026-11-08T20:57:22Z",
             "open_issues": 0,
             "owner": "M-Marbouh",
             "repo": "agent-quota.wezterm",
@@ -865,7 +865,7 @@
             "id": 1186556139,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-08T08:27:05Z",
+            "last_commit": "2026-11-09T08:48:54Z",
             "open_issues": 1,
             "owner": "pro-vi",
             "repo": "wezterm-attention",
@@ -1452,7 +1452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T09:12:14.285Z",
+    "last_updated": "2026-11-09T09:56:49.570Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collections of awesome WezTerm plugins.",
