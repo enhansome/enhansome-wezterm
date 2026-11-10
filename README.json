@@ -64,7 +64,7 @@
             "open_issues": 2,
             "owner": "dimao",
             "repo": "ai-commander.wezterm",
-            "stars": 13,
+            "stars": 12,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
@@ -405,11 +405,11 @@
             "id": 471784921,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-11-06T16:17:08Z",
+            "last_commit": "2026-11-09T18:08:30Z",
             "open_issues": 0,
             "owner": "smart-splits-nvim",
             "repo": "smart-splits.nvim",
-            "stars": 1748,
+            "stars": 1750,
             "topics": [
               "multiplexer",
               "mux",
@@ -582,7 +582,7 @@
             "open_issues": 0,
             "owner": "abidibo",
             "repo": "wezterm-sessions",
-            "stars": 29,
+            "stars": 30,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
@@ -865,7 +865,7 @@
             "id": 1186556139,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-09T08:48:54Z",
+            "last_commit": "2026-11-10T10:01:22Z",
             "open_issues": 1,
             "owner": "pro-vi",
             "repo": "wezterm-attention",
@@ -1452,7 +1452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T09:56:49.570Z",
+    "last_updated": "2026-11-10T10:03:28.146Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collections of awesome WezTerm plugins.",
