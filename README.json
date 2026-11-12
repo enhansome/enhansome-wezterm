@@ -276,7 +276,7 @@
             "open_issues": 3,
             "owner": "annie444",
             "repo": "sync-panes.wez",
-            "stars": 7,
+            "stars": 8,
             "topics": [
               "keybindings",
               "multiplexing",
@@ -865,7 +865,7 @@
             "id": 1186556139,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-10T11:52:03Z",
+            "last_commit": "2026-11-12T08:55:27Z",
             "open_issues": 1,
             "owner": "pro-vi",
             "repo": "wezterm-attention",
@@ -1452,7 +1452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T09:36:16.369Z",
+    "last_updated": "2026-11-12T09:57:26.464Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collections of awesome WezTerm plugins.",
