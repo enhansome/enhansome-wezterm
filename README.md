@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/wez/wezterm/main/assets/icon/wezterm-icon.svg" align="right" width="144" />
 
-> Collections of awesome WezTerm plugins. [Plugin Guide](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md) ⭐ 29,544 | 🐛 1,965 | 🌐 Rust | 📅 2026-11-12. Found something cool? Please [contribute](CONTRIBUTING.md)!
+> Collections of awesome WezTerm plugins. [Plugin Guide](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md) ⭐ 29,564 | 🐛 1,969 | 🌐 Rust | 📅 2026-11-12. Found something cool? Please [contribute](CONTRIBUTING.md)!
 
 [WezTerm](https://wezfurlong.org/wezterm/) is a powerful cross-platform terminal emulator and multiplexer written by [@wez](https://github.com/wez) and implemented in [Rust](https://www.rust-lang.org).
 
@@ -85,7 +85,7 @@ To enhance your WezTerm configuration experience:
 
 * [neapsix/wezterm](https://github.com/neapsix/wezterm) ⭐ 87 | 🐛 0 | 🌐 Lua | 📅 2024-05-11 - Rosé Pine theme, all natural pine, faux fur and a bit of soho vibes.
 * [koh-sh/wezterm-theme-rotator](https://github.com/koh-sh/wezterm-theme-rotator) ⭐ 10 | 🐛 1 | 🌐 Lua | 📅 2025-03-23 - Cycle through built-in themes using keyboard shortcuts.
-* [sravioli/kanagawa.wz](https://github.com/sravioli/kanagawa.wz) ⭐ 8 | 🐛 1 | 🌐 Lua | 📅 2026-11-10 - Kanagawa.nvim color schemes with Wave, Dragon, and Lotus variants.
+* [sravioli/kanagawa.wz](https://github.com/sravioli/kanagawa.wz) ⭐ 8 | 🐛 0 | 🌐 Lua | 📅 2026-11-12 - Kanagawa.nvim color schemes with Wave, Dragon, and Lotus variants.
 * [william-ricchiuti/Wezterm-Window-Tint](https://github.com/william-ricchiuti/Wezterm-Window-Tint) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2026-09-17 - Color the window frame, tab bar, and status badge by the active pane's Git root.
 * [Tomauskasz/electric-control-room.wez](https://github.com/Tomauskasz/electric-control-room.wez) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-07-16 - Animated electric control-room theme with layered APNG background effects.
 
@@ -110,4 +110,4 @@ To enhance your WezTerm configuration experience:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
