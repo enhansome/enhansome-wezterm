@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/wez/wezterm/main/assets/icon/wezterm-icon.svg" align="right" width="144" />
 
-> Collections of awesome WezTerm plugins. [Plugin Guide](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md) ⭐ 29,564 | 🐛 1,969 | 🌐 Rust | 📅 2026-11-12. Found something cool? Please [contribute](CONTRIBUTING.md)!
+> Collections of awesome WezTerm plugins. [Plugin Guide](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md) ⭐ 29,557 | 🐛 1,969 | 🌐 Rust | 📅 2026-11-13. Found something cool? Please [contribute](CONTRIBUTING.md)!
 
 [WezTerm](https://wezfurlong.org/wezterm/) is a powerful cross-platform terminal emulator and multiplexer written by [@wez](https://github.com/wez) and implemented in [Rust](https://www.rust-lang.org).
 
@@ -40,7 +40,7 @@ To enhance your WezTerm configuration experience:
 * [abidibo/wezterm-cmdpicker](https://github.com/abidibo/wezterm-cmdpicker) ⭐ 18 | 🐛 0 | 🌐 Lua | 📅 2026-05-25 - Add a command-palette-style fuzzy picker for keybindings. Press a trigger key to search and execute any keybinding — user-defined, config, or WezTerm defaults.
 * [sei40kr/wez-pain-control](https://github.com/sei40kr/wez-pain-control?tab=readme-ov-file) ⭐ 11 | 🐛 0 | 🌐 Lua | 📅 2023-11-21 - Pane control keybindings like tmux-pain-control.
 * [annie444/sync-panes.wez](https://github.com/annie444/sync-panes.wez) ⭐ 8 | 🐛 3 | 🌐 Lua | 📅 2026-07-09 - Mirrors your keystrokes to every pane in the active tab — the equivalent of tmux's `synchronize-panes`.
-* [sravioli/chord.wz](https://github.com/sravioli/chord.wz) ⭐ 5 | 🐛 0 | 🌐 Lua | 📅 2026-10-19 - Vim-style key notation, modal key tables, and hint bars.
+* [sravioli/chord.wz](https://github.com/sravioli/chord.wz) ⭐ 5 | 🐛 0 | 🌐 Lua | 📅 2026-11-13 - Vim-style key notation, modal key tables, and hint bars.
 * [selectnull/pinned-tabs.wezterm](https://github.com/selectnull/pinned-tabs.wezterm) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2025-08-16 - Lets you assign a key binding to a specific tab.
 * [KawaiiSelbst/nu\_utf8\_hack.wez](https://github.com/KawaiiSelbst/nu_utf8_hack.wez) ⭐ 0 | 🐛 0 | 🌐 Lua | 📅 2026-10-26 - Rough hack for correct handling utf8 symbols with `SHIFT` key with `kitty-keyboard-protocol` for users of nushell.
 * [KawaiiSelbst/keys\_bypass.wez](https://github.com/KawaiiSelbst/keys_bypass.wez) ⭐ 0 | 🐛 0 | 🌐 Lua | 📅 2026-09-14 - Bypasses WezTerm shortcuts to send keys to the foreground process (e.g., Zellij or tmux).
@@ -51,7 +51,7 @@ To enhance your WezTerm configuration experience:
 
 ## Neovim
 
-* [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) ⭐ 1,750 | 🐛 0 | 🌐 Lua | 📅 2026-11-09 - Provides an addon for seamless pane navigation between Neovim and the WezTerm MUX.
+* [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) ⭐ 1,750 | 🐛 0 | 🌐 Lua | 📅 2026-11-13 - Provides an addon for seamless pane navigation between Neovim and the WezTerm MUX.
 * [winter-again/wezterm-config.nvim](https://github.com/winter-again/wezterm-config.nvim) ⭐ 73 | 🐛 2 | 🌐 Lua | 📅 2026-04-01 - Interact with the WezTerm configuration directly from Neovim.
 
 ## Panes
@@ -98,16 +98,16 @@ To enhance your WezTerm configuration experience:
 * [aureolebigben/wezterm-cmd-sender](https://github.com/aureolebigben/wezterm-cmd-sender) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2026-04-19 - Send commands to multiple panes.
 * [ChrisGVE/dev.wezterm](https://github.com/ChrisGVE/dev.wezterm) ⭐ 7 | 🐛 1 | 🌐 Lua | 📅 2026-05-26 - Location resolver for development and deployment of a plugin.
 * [quantonganh/quickselect.wezterm](https://github.com/quantonganh/quickselect.wezterm) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2025-12-13 - Jump to the build error by opening them in Helix.
-* [sravioli/lantern.wz](https://github.com/sravioli/lantern.wz) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2026-10-14 - Selector framework for colorschemes, fonts, GPU adapters, window appearance, and custom config presets.
+* [sravioli/lantern.wz](https://github.com/sravioli/lantern.wz) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2026-11-13 - Selector framework for colorschemes, fonts, GPU adapters, window appearance, and custom config presets.
 * [dfsramos/wezterm-sync](https://github.com/dfsramos/wezterm-sync) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2026-05-11 - Sync your config across machines via a private GitHub Gist, with zero external dependencies.
-* [sravioli/warp.wz](https://github.com/sravioli/warp.wz) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2026-10-16 - General-purpose utility library with string, table, list, path, and filesystem helpers.
-* [sravioli/log.wz](https://github.com/sravioli/log.wz) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2026-10-16 - Tagged logging library with pluggable sinks and severity thresholds.
-* [sravioli/memo.wz](https://github.com/sravioli/memo.wz) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2026-10-19 - Memoization, caching, and persistent state management.
-* [sravioli/ribbon.wz](https://github.com/sravioli/ribbon.wz) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2026-10-16 - Builds styled text segments for status bars, tab titles, and selector previews.
-* [sravioli/sigil.wz](https://github.com/sravioli/sigil.wz) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2026-10-16 - Icon and identity-color registry for processes, tools, and UI labels.
+* [sravioli/warp.wz](https://github.com/sravioli/warp.wz) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2026-11-13 - General-purpose utility library with string, table, list, path, and filesystem helpers.
+* [sravioli/log.wz](https://github.com/sravioli/log.wz) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2026-11-13 - Tagged logging library with pluggable sinks and severity thresholds.
+* [sravioli/memo.wz](https://github.com/sravioli/memo.wz) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2026-11-13 - Memoization, caching, and persistent state management.
+* [sravioli/ribbon.wz](https://github.com/sravioli/ribbon.wz) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2026-11-13 - Builds styled text segments for status bars, tab titles, and selector previews.
+* [sravioli/sigil.wz](https://github.com/sravioli/sigil.wz) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2026-11-13 - Icon and identity-color registry for processes, tools, and UI labels.
 * [btrachey/wezterm-replay](https://github.com/btrachey/wezterm-replay) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2025-09-18 - Parse command output and get URLs, shell commands, etc. pasted into your next prompt.
 * [lilaqua/tunicodes](https://gitlab.com/lilaqua/tunicodes) - Insert Unicode characters via their codepoints.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
