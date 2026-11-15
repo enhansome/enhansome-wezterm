@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/wez/wezterm/main/assets/icon/wezterm-icon.svg" align="right" width="144" />
 
-> Collections of awesome WezTerm plugins. [Plugin Guide](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md) ⭐ 29,557 | 🐛 1,969 | 🌐 Rust | 📅 2026-11-13. Found something cool? Please [contribute](CONTRIBUTING.md)!
+> Collections of awesome WezTerm plugins. [Plugin Guide](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md) ⭐ 29,562 | 🐛 1,975 | 🌐 Rust | 📅 2026-11-14. Found something cool? Please [contribute](CONTRIBUTING.md)!
 
 [WezTerm](https://wezfurlong.org/wezterm/) is a powerful cross-platform terminal emulator and multiplexer written by [@wez](https://github.com/wez) and implemented in [Rust](https://www.rust-lang.org).
 
@@ -37,7 +37,7 @@ To enhance your WezTerm configuration experience:
 
 * [MLFlexer/modal.wezterm](https://github.com/MLFlexer/modal.wezterm) ⚠️ Archived - Predefined Vim-like modal keybindings with a good looking UI.
 * [sei40kr/wez-tmux](https://github.com/sei40kr/wez-tmux) ⭐ 56 | 🐛 2 | 🌐 Lua | 📅 2025-11-03 - Ported tmux keybindings.
-* [abidibo/wezterm-cmdpicker](https://github.com/abidibo/wezterm-cmdpicker) ⭐ 18 | 🐛 0 | 🌐 Lua | 📅 2026-05-25 - Add a command-palette-style fuzzy picker for keybindings. Press a trigger key to search and execute any keybinding — user-defined, config, or WezTerm defaults.
+* [abidibo/wezterm-cmdpicker](https://github.com/abidibo/wezterm-cmdpicker) ⭐ 18 | 🐛 1 | 🌐 Lua | 📅 2026-05-25 - Add a command-palette-style fuzzy picker for keybindings. Press a trigger key to search and execute any keybinding — user-defined, config, or WezTerm defaults.
 * [sei40kr/wez-pain-control](https://github.com/sei40kr/wez-pain-control?tab=readme-ov-file) ⭐ 11 | 🐛 0 | 🌐 Lua | 📅 2023-11-21 - Pane control keybindings like tmux-pain-control.
 * [annie444/sync-panes.wez](https://github.com/annie444/sync-panes.wez) ⭐ 8 | 🐛 3 | 🌐 Lua | 📅 2026-07-09 - Mirrors your keystrokes to every pane in the active tab — the equivalent of tmux's `synchronize-panes`.
 * [sravioli/chord.wz](https://github.com/sravioli/chord.wz) ⭐ 5 | 🐛 0 | 🌐 Lua | 📅 2026-11-13 - Vim-style key notation, modal key tables, and hint bars.
@@ -110,4 +110,4 @@ To enhance your WezTerm configuration experience:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._

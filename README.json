@@ -228,7 +228,7 @@
             "language": "Lua",
             "license": null,
             "last_commit": "2026-05-25T21:13:26Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "abidibo",
             "repo": "wezterm-cmdpicker",
             "stars": 18,
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T09:06:43.327Z",
+    "last_updated": "2026-11-15T09:37:22.483Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collections of awesome WezTerm plugins.",
@@ -1469,7 +1469,7 @@
       "open_issues": 0,
       "owner": "michaelbrusegard",
       "repo": "awesome-wezterm",
-      "stars": 787,
+      "stars": 788,
       "topics": [
         "awesome",
         "awesome-list",
