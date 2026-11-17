@@ -298,11 +298,11 @@
             "id": 1233289215,
             "language": "Lua",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-16T00:46:33Z",
+            "last_commit": "2026-11-17T09:50:22Z",
             "open_issues": 0,
             "owner": "sravioli",
             "repo": "chord.wz",
-            "stars": 5,
+            "stars": 6,
             "topics": [
               "key-tables",
               "keybindings",
@@ -986,11 +986,11 @@
             "id": 1186688414,
             "language": "Lua",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-15T20:48:10Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-17T10:50:43Z",
+            "open_issues": 1,
             "owner": "kanagawa-community",
             "repo": "wezterm",
-            "stars": 8,
+            "stars": 9,
             "topics": [
               "color-scheme",
               "colorscheme",
@@ -1086,7 +1086,7 @@
             "open_issues": 0,
             "owner": "zsh-sage",
             "repo": "toggle_terminal.wez",
-            "stars": 23,
+            "stars": 22,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:40.908Z"
@@ -1243,11 +1243,11 @@
             "id": 1198806635,
             "language": "Lua",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-16T00:46:40Z",
+            "last_commit": "2026-11-17T09:50:20Z",
             "open_issues": 0,
             "owner": "sravioli",
             "repo": "lantern.wz",
-            "stars": 4,
+            "stars": 5,
             "topics": [
               "configuration",
               "lua",
@@ -1255,6 +1255,36 @@
               "productivity",
               "selector",
               "terminal",
+              "wezterm",
+              "wezterm-plugin"
+            ]
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
+        },
+        {
+          "node_type": "item",
+          "title": "sravioli/warp.wz",
+          "description": "General-purpose utility library with string, table, list, path, and filesystem helpers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🚀 Warp-speed utilities for WezTerm",
+            "homepage": null,
+            "id": 1189369925,
+            "language": "Lua",
+            "license": "GPL-2.0",
+            "last_commit": "2026-11-17T09:49:38Z",
+            "open_issues": 0,
+            "owner": "sravioli",
+            "repo": "warp.wz",
+            "stars": 4,
+            "topics": [
+              "lua",
+              "luajit",
+              "path-manipulation",
+              "string-manipulation",
+              "table-utils",
+              "utility-library",
               "wezterm",
               "wezterm-plugin"
             ]
@@ -1284,36 +1314,6 @@
         },
         {
           "node_type": "item",
-          "title": "sravioli/warp.wz",
-          "description": "General-purpose utility library with string, table, list, path, and filesystem helpers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🚀 Warp-speed utilities for WezTerm",
-            "homepage": null,
-            "id": 1189369925,
-            "language": "Lua",
-            "license": "GPL-2.0",
-            "last_commit": "2026-11-16T00:46:52Z",
-            "open_issues": 0,
-            "owner": "sravioli",
-            "repo": "warp.wz",
-            "stars": 3,
-            "topics": [
-              "lua",
-              "luajit",
-              "path-manipulation",
-              "string-manipulation",
-              "table-utils",
-              "utility-library",
-              "wezterm",
-              "wezterm-plugin"
-            ]
-          },
-          "first_seen": "2026-08-28T14:25:40.908Z"
-        },
-        {
-          "node_type": "item",
           "title": "sravioli/log.wz",
           "description": "Tagged logging library with pluggable sinks and severity thresholds.",
           "children": [],
@@ -1324,11 +1324,11 @@
             "id": 1185680647,
             "language": "Lua",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-16T00:46:43Z",
+            "last_commit": "2026-11-17T09:49:40Z",
             "open_issues": 0,
             "owner": "sravioli",
             "repo": "log.wz",
-            "stars": 2,
+            "stars": 3,
             "topics": [
               "logger",
               "logging",
@@ -1352,11 +1352,11 @@
             "id": 1186343024,
             "language": "Lua",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-16T00:46:44Z",
+            "last_commit": "2026-11-17T09:49:42Z",
             "open_issues": 0,
             "owner": "sravioli",
             "repo": "memo.wz",
-            "stars": 2,
+            "stars": 3,
             "topics": [
               "cache",
               "lua",
@@ -1381,11 +1381,11 @@
             "id": 1233183108,
             "language": "Lua",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-16T00:46:47Z",
+            "last_commit": "2026-11-17T09:49:46Z",
             "open_issues": 0,
             "owner": "sravioli",
             "repo": "ribbon.wz",
-            "stars": 2,
+            "stars": 3,
             "topics": [
               "formatted-text",
               "lua",
@@ -1412,11 +1412,11 @@
             "id": 1233325472,
             "language": "Lua",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-16T00:46:49Z",
+            "last_commit": "2026-11-17T09:49:44Z",
             "open_issues": 0,
             "owner": "sravioli",
             "repo": "sigil.wz",
-            "stars": 2,
+            "stars": 3,
             "topics": [
               "devicons",
               "icons",
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T09:55:20.312Z",
+    "last_updated": "2026-11-17T10:51:09.549Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collections of awesome WezTerm plugins.",
@@ -1466,10 +1466,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-12T19:30:58Z",
-      "open_issues": 0,
+      "open_issues": 5,
       "owner": "michaelbrusegard",
       "repo": "awesome-wezterm",
-      "stars": 789,
+      "stars": 790,
       "topics": [
         "awesome",
         "awesome-list",
