@@ -409,7 +409,7 @@
             "open_issues": 0,
             "owner": "smart-splits-nvim",
             "repo": "smart-splits.nvim",
-            "stars": 1753,
+            "stars": 1752,
             "topics": [
               "multiplexer",
               "mux",
@@ -865,7 +865,7 @@
             "id": 1186556139,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-12T08:55:27Z",
+            "last_commit": "2026-11-20T09:49:06Z",
             "open_issues": 1,
             "owner": "pro-vi",
             "repo": "wezterm-attention",
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T10:29:54.073Z",
+    "last_updated": "2026-11-20T10:11:29.876Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collections of awesome WezTerm plugins.",
@@ -1469,7 +1469,7 @@
       "open_issues": 5,
       "owner": "michaelbrusegard",
       "repo": "awesome-wezterm",
-      "stars": 791,
+      "stars": 792,
       "topics": [
         "awesome",
         "awesome-list",
