@@ -81,7 +81,7 @@
             "id": 1187860165,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-08T20:57:22Z",
+            "last_commit": "2026-11-23T13:32:48Z",
             "open_issues": 0,
             "owner": "M-Marbouh",
             "repo": "agent-quota.wezterm",
@@ -409,7 +409,7 @@
             "open_issues": 0,
             "owner": "smart-splits-nvim",
             "repo": "smart-splits.nvim",
-            "stars": 1753,
+            "stars": 1754,
             "topics": [
               "multiplexer",
               "mux",
@@ -1314,34 +1314,6 @@
         },
         {
           "node_type": "item",
-          "title": "sravioli/log.wz",
-          "description": "Tagged logging library with pluggable sinks and severity thresholds.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "🪵 lightweight, pluggable logging library for WezTerm",
-            "homepage": null,
-            "id": 1185680647,
-            "language": "Lua",
-            "license": "GPL-2.0",
-            "last_commit": "2026-11-22T23:05:03Z",
-            "open_issues": 0,
-            "owner": "sravioli",
-            "repo": "log.wz",
-            "stars": 3,
-            "topics": [
-              "logger",
-              "logging",
-              "lua",
-              "plugin",
-              "wezterm",
-              "wezterm-plugin"
-            ]
-          },
-          "first_seen": "2026-08-28T14:25:40.908Z"
-        },
-        {
-          "node_type": "item",
           "title": "sravioli/memo.wz",
           "description": "Memoization, caching, and persistent state management.",
           "children": [],
@@ -1364,37 +1336,6 @@
               "plugin",
               "state-management",
               "wezterm",
-              "wezterm-plugin"
-            ]
-          },
-          "first_seen": "2026-08-28T14:25:40.908Z"
-        },
-        {
-          "node_type": "item",
-          "title": "sravioli/ribbon.wz",
-          "description": "Builds styled text segments for status bars, tab titles, and selector previews.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "🎀 Weave styled text segments into clean WezTerm UI.",
-            "homepage": null,
-            "id": 1233183108,
-            "language": "Lua",
-            "license": "GPL-2.0",
-            "last_commit": "2026-11-22T23:05:07Z",
-            "open_issues": 0,
-            "owner": "sravioli",
-            "repo": "ribbon.wz",
-            "stars": 3,
-            "topics": [
-              "formatted-text",
-              "lua",
-              "lua-plugin",
-              "status-bar",
-              "terminal",
-              "text-formatting",
-              "wezterm",
-              "wezterm-config",
               "wezterm-plugin"
             ]
           },
@@ -1433,6 +1374,65 @@
         },
         {
           "node_type": "item",
+          "title": "sravioli/log.wz",
+          "description": "Tagged logging library with pluggable sinks and severity thresholds.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "🪵 lightweight, pluggable logging library for WezTerm",
+            "homepage": null,
+            "id": 1185680647,
+            "language": "Lua",
+            "license": "GPL-2.0",
+            "last_commit": "2026-11-22T23:05:03Z",
+            "open_issues": 0,
+            "owner": "sravioli",
+            "repo": "log.wz",
+            "stars": 2,
+            "topics": [
+              "logger",
+              "logging",
+              "lua",
+              "plugin",
+              "wezterm",
+              "wezterm-plugin"
+            ]
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
+        },
+        {
+          "node_type": "item",
+          "title": "sravioli/ribbon.wz",
+          "description": "Builds styled text segments for status bars, tab titles, and selector previews.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "🎀 Weave styled text segments into clean WezTerm UI.",
+            "homepage": null,
+            "id": 1233183108,
+            "language": "Lua",
+            "license": "GPL-2.0",
+            "last_commit": "2026-11-22T23:05:07Z",
+            "open_issues": 0,
+            "owner": "sravioli",
+            "repo": "ribbon.wz",
+            "stars": 2,
+            "topics": [
+              "formatted-text",
+              "lua",
+              "lua-plugin",
+              "status-bar",
+              "terminal",
+              "text-formatting",
+              "wezterm",
+              "wezterm-config",
+              "wezterm-plugin"
+            ]
+          },
+          "first_seen": "2026-08-28T14:25:40.908Z"
+        },
+        {
+          "node_type": "item",
           "title": "btrachey/wezterm-replay",
           "description": "Parse command output and get URLs, shell commands, etc. pasted into your next prompt.",
           "children": [],
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T10:55:24.884Z",
+    "last_updated": "2026-11-24T12:39:17.799Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collections of awesome WezTerm plugins.",
