@@ -405,7 +405,7 @@
             "id": 471784921,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-11-20T16:18:00Z",
+            "last_commit": "2026-11-27T16:16:48Z",
             "open_issues": 0,
             "owner": "smart-splits-nvim",
             "repo": "smart-splits.nvim",
@@ -814,7 +814,7 @@
             "open_issues": 1,
             "owner": "adriankarlen",
             "repo": "bar.wezterm",
-            "stars": 251,
+            "stars": 250,
             "topics": [
               "multiplexing",
               "rice",
@@ -865,8 +865,8 @@
             "id": 1186556139,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-27T09:19:27Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-28T03:40:03Z",
+            "open_issues": 1,
             "owner": "pro-vi",
             "repo": "wezterm-attention",
             "stars": 27,
@@ -1107,7 +1107,7 @@
             "open_issues": 1,
             "owner": "usrivastava92",
             "repo": "widgets.wez",
-            "stars": 16,
+            "stars": 15,
             "topics": [
               "battery",
               "cpu",
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T11:00:53.264Z",
+    "last_updated": "2026-11-28T10:38:07.247Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collections of awesome WezTerm plugins.",
@@ -1466,7 +1466,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-12T19:30:58Z",
-      "open_issues": 7,
+      "open_issues": 8,
       "owner": "michaelbrusegard",
       "repo": "awesome-wezterm",
       "stars": 796,
